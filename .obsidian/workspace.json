@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "8039e94921ab8ebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c3db9991c473b20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12fe4f1bdd9b85db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/Метод Print().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "084087ea922fa881",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ce1ebda57325ef8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc33a1bf87f31cee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "214e3485da6b8243",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f370311e912c6ceb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "74c5594cf34ccf29",
+    "type": "split",
+    "children": [
+      {
+        "id": "77393066e460f9d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cee54593388470dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Flutter/Метод Print().md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63fd0531be36919d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Flutter/Метод Print().md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0034fd3b64105635",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f4f8ef8334e13f12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Flutter/Метод Print().md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "markdown-importer:Імпорт Markdown-файлів": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "12fe4f1bdd9b85db",
+  "lastOpenFiles": [
+    "Flutter/Метод Print().md",
+    "Flutter/Untitled Kanban.md",
+    "2024-05-20.md",
+    "Без назви.canvas",
+    "Без назви.md",
+    "Flutter",
+    "Welcome.md"
+  ]
+}
