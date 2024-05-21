@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Інформація/Змінні.md",
+                "file": "Flutter/Інформація/Арифметичні дії.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Інформація/Змінні.md",
+                "file": "Flutter/Інформація/Арифметичні дії.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Інформація/Змінні.md",
+                "file": "Flutter/Інформація/Арифметичні дії.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Інформація/Змінні.md"
+                "file": "Flutter/Інформація/Арифметичні дії.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "4678bfd63a5498f6",
   "lastOpenFiles": [
-    "Flutter/Інформація/Структура.md",
     "Flutter/Інформація/Змінні.md",
+    "Flutter/Інформація/Арифметичні дії.md",
+    "Flutter/Інформація/Структура.md",
     "Flutter/Інформація/Flutter.md",
     "Flutter/Метода/Метод Print().md",
     "^.md",
