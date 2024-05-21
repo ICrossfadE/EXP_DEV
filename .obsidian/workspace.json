@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Метода/Метод Print().md",
+                "file": "Flutter/Інформація/Змінні.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Метода/Метод Print().md",
+                "file": "Flutter/Інформація/Змінні.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Метода/Метод Print().md",
+                "file": "Flutter/Інформація/Змінні.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Метода/Метод Print().md"
+                "file": "Flutter/Інформація/Змінні.md"
               }
             }
           }
@@ -151,9 +151,10 @@
   "active": "4678bfd63a5498f6",
   "lastOpenFiles": [
     "Flutter/Інформація/Структура.md",
-    "^.md",
+    "Flutter/Інформація/Змінні.md",
     "Flutter/Інформація/Flutter.md",
     "Flutter/Метода/Метод Print().md",
+    "^.md",
     "Flutter/Інформація",
     "Flutter/Метода",
     "Flutter/Untitled Kanban.md",
