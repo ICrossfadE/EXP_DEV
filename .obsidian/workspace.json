@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Метод Print().md",
+                "file": "Flutter/Інформація/Flutter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Метод Print().md",
+                "file": "Flutter/Інформація/Flutter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Метод Print().md",
+                "file": "Flutter/Інформація/Flutter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Метод Print().md"
+                "file": "Flutter/Інформація/Flutter.md"
               }
             }
           }
@@ -150,7 +150,11 @@
   },
   "active": "12fe4f1bdd9b85db",
   "lastOpenFiles": [
-    "Flutter/Метод Print().md",
+    "Flutter/Інформація/Без назви.md",
+    "Flutter/Інформація/Flutter.md",
+    "Flutter/Метода/Метод Print().md",
+    "Flutter/Інформація",
+    "Flutter/Метода",
     "Flutter/Untitled Kanban.md",
     "2024-05-20.md",
     "Без назви.canvas",
