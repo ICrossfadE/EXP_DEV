@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Інформація/Об'єкти.md",
+                "file": "Flutter/Структура Flutter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba1e85002a64a1be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dart/Інформація/Структура Dart.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Інформація/Об'єкти.md",
+                "file": "Flutter/Структура Flutter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Інформація/Об'єкти.md",
+                "file": "Flutter/Структура Flutter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Інформація/Об'єкти.md"
+                "file": "Flutter/Структура Flutter.md"
               }
             }
           }
@@ -150,22 +162,28 @@
   },
   "active": "4678bfd63a5498f6",
   "lastOpenFiles": [
-    "Flutter/Інформація/Функції.md",
-    "Flutter/Інформація/Об'єкти.md",
-    "Flutter/Інформація/Змінні.md",
-    "Flutter/Інформація/Списки данних.md",
-    "Flutter/Метода/Метода масива.md",
-    "Flutter/Метода/Метод Print().md",
-    "Flutter/Інформація/Перетворення типів.md",
-    "Flutter/Інформація/Арифметичні дії.md",
-    "Flutter/Інформація/Структура.md",
-    "Flutter/Інформація/Flutter.md",
+    "Dart/Інформація/Структура Dart.md",
+    "Flutter/Структура Flutter.md",
+    "Flutter/Flutter.md",
+    "Flutter/Початок роботи.md",
+    "Dart/Dart info.md",
+    "Dart/Інформація/Арифметичні дії.md",
+    "Dart",
+    "2024-05-22.md",
+    "Без назви.canvas",
+    "Без назви 1.canvas",
+    "Dart/Метода/Метода масива.md",
+    "Dart/Інформація/Об'єкти.md",
+    "Dart/Інформація/Функції.md",
+    "Dart/Інформація/Змінні.md",
+    "Dart/Інформація/Списки данних.md",
+    "Dart/Метода/Метод Print().md",
+    "Dart/Інформація/Перетворення типів.md",
     "^.md",
-    "Flutter/Інформація",
-    "Flutter/Метода",
+    "Dart/Інформація",
+    "Dart/Метода",
     "Flutter/Untitled Kanban.md",
     "2024-05-20.md",
-    "Без назви.canvas",
     "Без назви.md",
     "Flutter",
     "Welcome.md"
