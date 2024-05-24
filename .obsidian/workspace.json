@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Конструктори.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "285976b49eb83141",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter/Класи/Клас для роботи з JSON.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fecfe3eb17b28f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter/Метода/copyWith.md",
+                "file": "Flutter/@override.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "74c5594cf34ccf29",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Класи/Клас для роботи з JSON.md",
+                "file": "Flutter/@override.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Класи/Клас для роботи з JSON.md",
+                "file": "Flutter/@override.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Класи/Клас для роботи з JSON.md"
+                "file": "Flutter/@override.md"
               }
             }
           }
@@ -173,12 +148,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "285976b49eb83141",
+  "active": "94888c39b36cf1f4",
   "lastOpenFiles": [
+    "Flutter/Класи/Клас для роботи з JSON.md",
+    "Flutter/@override.md",
+    "Flutter/Метода/copyWith.md",
     "Flutter/Конструктори.md",
     "Dart/Інформація/Змінні.md",
-    "Flutter/Метода/copyWith.md",
-    "Flutter/Класи/Клас для роботи з JSON.md",
     "Flutter/Package/Bloc.md",
     "Flutter/Класи",
     "Flutter/Package",
