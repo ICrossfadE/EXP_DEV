@@ -81,14 +81,20 @@ Todo copyWith({String? title, String? subtitle, bool? isDone}) {
   }
 ```
 ---
-## toJson
+## toJson()
 ```
-Map<String, dynamic> toJson() { return {'title': title, 'subtitle': subtitle, 'isDone': isDone}; }
+Map<String, dynamic> toJson() { 
+return {
+	'title': title,
+	'subtitle': subtitle,
+	'isDone': isDone
+	};
+}
 ```
 - Перетворює об'єкт `Todo` у формат JSON.
 -  Повертає `Map<String, dynamic>` з даними об'єкта.
 ---
-## toString
+## toString()
 
 ```
 @override
