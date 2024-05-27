@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a532eadb42c5fda9",
+        "id": "b217b2cfe98789cd",
         "type": "tabs",
         "children": [
           {
-            "id": "94888c39b36cf1f4",
+            "id": "59e7b43a788f784b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Класи/Клас для роботи з JSON.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3ff97adec33241d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter/Метода/toJson.md",
+                "file": "Flutter/Віджети/Scaffold.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Класи/Клас для роботи з JSON.md",
+                "file": "Flutter/Віджети/Scaffold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Класи/Клас для роботи з JSON.md",
+                "file": "Flutter/Віджети/Scaffold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Класи/Клас для роботи з JSON.md"
+                "file": "Flutter/Віджети/Scaffold.md"
               }
             }
           }
@@ -160,27 +148,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94888c39b36cf1f4",
+  "active": "59e7b43a788f784b",
   "lastOpenFiles": [
+    "Flutter/Віджети/Віджети Flutter.md",
+    "Flutter/Віджети/Scaffold.md",
+    "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
+    "Flutter/Віджети/StatelessWidget.md",
+    "Flutter/Віджети/StatefulWidget.md",
+    "Flutter/Метода/toJson.md",
+    "Flutter/Іменовані аргументи.md",
+    "Flutter/Без назви",
+    "Flutter/Метода/Методи Flutter",
+    "Flutter/Віджети/Без назви",
+    "Dart/Інформація/Змінні.md",
+    "Flutter/Класи/Клас для роботи з JSON.md",
     "Flutter/Початок роботи.md",
     "Flutter/Flutter.md",
     "Flutter/Функції Flutter.md",
     "Flutter/Структура Flutter.md",
     "Flutter/Метода/fromJson.md",
-    "Flutter/Метода/toJson.md",
     "Flutter/Метода/copyWith.md",
-    "Flutter/Класи/Клас для роботи з JSON.md",
     "Flutter/@override.md",
     "Flutter/Метода/Інформація.md",
     "Flutter/Package/Bloc.md",
     "Dart/Метода/Метод Print().md",
     "Dart/Dart info.md",
     "Flutter/Конструктори.md",
-    "Dart/Інформація/Змінні.md",
     "Flutter/Класи",
     "Flutter/Package",
     "Flutter/Метода",
-    "Flutter/Віджети/Віджети Flutter.md",
     "Flutter/Віджети",
     "Dart/Інформація/Структура Dart.md",
     "Dart/Інформація/Арифметичні дії.md",
@@ -190,13 +186,7 @@
     "Без назви 1.canvas",
     "Dart/Метода/Метода масива.md",
     "Dart/Інформація/Об'єкти.md",
-    "Dart/Інформація/Функції.md",
-    "Dart/Інформація/Списки данних.md",
-    "Dart/Інформація/Перетворення типів.md",
-    "^.md",
     "Dart/Інформація",
-    "Dart/Метода",
-    "Flutter/Untitled Kanban.md",
-    "Flutter"
+    "Dart/Метода"
   ]
 }
