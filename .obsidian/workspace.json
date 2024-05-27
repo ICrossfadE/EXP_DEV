@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Віджети/Scaffold.md",
+                "file": "Flutter/Властивості/MediaQuery.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Віджети/Scaffold.md",
+                "file": "Flutter/Властивості/MediaQuery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Віджети/Scaffold.md",
+                "file": "Flutter/Властивості/MediaQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Віджети/Scaffold.md"
+                "file": "Flutter/Властивості/MediaQuery.md"
               }
             }
           }
@@ -150,14 +150,15 @@
   },
   "active": "59e7b43a788f784b",
   "lastOpenFiles": [
-    "Flutter/Віджети/Віджети Flutter.md",
     "Flutter/Віджети/Scaffold.md",
+    "Flutter/Властивості/MediaQuery.md",
+    "Flutter/Властивості",
+    "Flutter/Віджети/Віджети Flutter.md",
     "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
     "Flutter/Віджети/StatelessWidget.md",
     "Flutter/Віджети/StatefulWidget.md",
     "Flutter/Метода/toJson.md",
     "Flutter/Іменовані аргументи.md",
-    "Flutter/Без назви",
     "Flutter/Метода/Методи Flutter",
     "Flutter/Віджети/Без назви",
     "Dart/Інформація/Змінні.md",
@@ -185,7 +186,6 @@
     "Без назви.canvas",
     "Без назви 1.canvas",
     "Dart/Метода/Метода масива.md",
-    "Dart/Інформація/Об'єкти.md",
     "Dart/Інформація",
     "Dart/Метода"
   ]
