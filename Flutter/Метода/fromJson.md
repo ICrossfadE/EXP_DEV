@@ -4,7 +4,7 @@
 > [!NOTE] Десеріалізація (від JSON до об'єкта Dart)
 > Перетворює отримані данні JSON в Мапу, апотім цю мапу в - обєкт. 
 
-```
+```dart
 factory Todo.fromJson(Map<String, dynamic> json) {
     return Todo(
         title: json['title'] as String? ?? '',

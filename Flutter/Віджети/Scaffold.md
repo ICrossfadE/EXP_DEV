@@ -5,7 +5,7 @@
 - **appBar**:
 	- Віджет `AppBar` для відображення заголовка додатка, кнопок дій і інших елементів управління.
 
-```
+```dart
 appBar: AppBar(
   title: Text('My App'),
 ),
@@ -13,7 +13,7 @@ appBar: AppBar(
 - **body**:
 	- Основний контент додатка. Це може бути будь-який віджет, який відображає основну інформацію.
 
-```
+```dart
 body: Center(
   child: Text('Hello, world!'),
 ),
@@ -21,7 +21,7 @@ body: Center(
 - **floatingActionButton**:
 	- Плаваюча кнопка дії, зазвичай використовується для основних дій на екрані.
 
-```
+```dart
 floatingActionButton: FloatingActionButton(
   onPressed: () {},
   child: Icon(Icons.add),
@@ -30,7 +30,7 @@ floatingActionButton: FloatingActionButton(
 - **drawer**:
 	- Висувна панель з лівого боку екрана, зазвичай використовується для навігації.
 
-```
+```dart
 drawer: Drawer(
   child: ListView(
     children: <Widget>[
@@ -48,7 +48,7 @@ drawer: Drawer(
 - **bottomNavigationBar**:
 	- Нижня панель навігації, яка дозволяє переключатися між різними розділами додатка.
 
-```
+```dart
 bottomNavigationBar: BottomNavigationBar(
   items: [
     BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'),
@@ -59,7 +59,7 @@ bottomNavigationBar: BottomNavigationBar(
 - **bottomSheet**:
 	- Стане нижньої панелі, яка може бути постійною або модальною.
 
-```
+```dart
 bottomSheet: BottomSheet(
   onClosing: () {},
   builder: (context) => Container(
@@ -72,6 +72,6 @@ bottomSheet: BottomSheet(
 - **backgroundColor**:
 	- Колір фону для `Scaffold`.
 
-```
+```dart
 backgroundColor: Colors.blueGrey,
 ```

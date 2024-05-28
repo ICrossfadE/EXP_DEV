@@ -4,7 +4,7 @@
 > [!NOTE]  Серіалізація (з об'єкта Dart до JSON)
 >Перетворення данних по типу *обєкта* в *JSON*. Для того щоб зберегти кудась зміни або відправити на сервер.
 
-```
+```dart
 Map<String, dynamic> toJson() {
     return {'title': title, 'subtitle': subtitle, 'isDone': isDone};
   }

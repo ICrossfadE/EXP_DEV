@@ -8,7 +8,7 @@
 - **StatefulWidget**: Клас, який є незмінним і створює екземпляр свого супутнього `State`.
 - **State**: Клас, який зберігає стан і визначає метод `build`, який повертає віджет.
 
-```
+```dart
 class MyStatefulWidget extends StatefulWidget {
   @override
   _MyStatefulWidgetState createState() => _MyStatefulWidgetState();

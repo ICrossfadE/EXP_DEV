@@ -4,7 +4,7 @@
 - Перебудовується лише тоді, коли змінюються зовнішні параметри.
 - Простіший і більш ефективний у порівнянні з `StatefulWidget`.
 
-```
+```dart
 class MyStatelessWidget extends StatelessWidget {
   final String title;
 

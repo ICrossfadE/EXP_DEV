@@ -1,4 +1,4 @@
-```
+```dart
 class Todo {
   final String title;
   final String subtitle;
@@ -37,7 +37,7 @@ class Todo {
 ```
 ---
 ## constructor
-```
+```dart
 Todo({this.title = '', this.subtitle = '', this.isDone = false});
 ```
 > Він використовує ініціалізацію через параметри конструктора в фігурних дужках (`{}`). Це називається *"Іменовані параметри"*.
@@ -47,7 +47,7 @@ Todo({this.title = '', this.subtitle = '', this.isDone = false});
 ---
 
 ## copyWith
-```
+```dart
 Todo copyWith({String? title, String? subtitle, bool? isDone}) {
     return Todo(
         title: title ?? this.title,
@@ -72,7 +72,7 @@ Todo copyWith({String? title, String? subtitle, bool? isDone}) {
 - Використовуються оператори приведення типів (`as String?` та `as bool?`), щоб безпечно перетворити значення з JSON.
 - Якщо якесь значення відсутнє в JSON, використовується значення за замовчуванням (порожній рядок або `false`).
 
-```
+```dart
   factory Todo.fromJson(Map<String, dynamic> json) {
     return Todo(
         title: json['title'] as String? ?? '',
@@ -82,7 +82,7 @@ Todo copyWith({String? title, String? subtitle, bool? isDone}) {
 ```
 ---
 ## toJson()
-```
+```dart
 Map<String, dynamic> toJson() { 
 return {
 	'title': title,
@@ -96,7 +96,7 @@ return {
 ---
 ## toString()
 
-```
+```dart
 @override
   String toString() {
     return '''Todo: {
