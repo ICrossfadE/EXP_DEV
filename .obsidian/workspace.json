@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Package/BLoC/Bloc State.md",
+                "file": "Flutter/Package/BLoC/MultiBlocProvider.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Package/BLoC/Bloc State.md",
+                "file": "Flutter/Package/BLoC/MultiBlocProvider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Package/BLoC/Bloc State.md",
+                "file": "Flutter/Package/BLoC/MultiBlocProvider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Package/BLoC/Bloc State.md"
+                "file": "Flutter/Package/BLoC/MultiBlocProvider.md"
               }
             }
           }
@@ -150,14 +150,15 @@
   },
   "active": "59e7b43a788f784b",
   "lastOpenFiles": [
+    "Flutter/Package/BLoC/Bloc State.md",
     "Flutter/Package/BLoC/Bloc.md",
+    "Flutter/Package/BLoC/MultiBlocProvider.md",
+    "Flutter/Package/BLoC/BlocBuilder.md",
+    "Flutter/Package/BLoC/BlocProvider.md",
     "Dart/Інформація/Об'єкти.md",
     "Dart/Інформація/Змінні та ключові слова.md",
     "Dart/Інформація/Арифметичні дії.md",
     "Dart/Dart info.md",
-    "Flutter/Package/BLoC/Bloc State.md",
-    "Flutter/Package/BLoC/BlocBuilder.md",
-    "Flutter/Package/BLoC/BlocProvider.md",
     "Flutter/Package/BLoC",
     "Flutter/Віджети/StatelessWidget.md",
     "Flutter/Віджети/StatefulWidget.md",
@@ -176,7 +177,6 @@
     "Flutter/Структура Flutter.md",
     "Flutter/Початок роботи.md",
     "Flutter/Іменовані аргументи.md",
-    "Flutter/@override.md",
     "Flutter/Властивості",
     "Flutter/Метода/Методи Flutter",
     "Flutter/Віджети/Без назви",
