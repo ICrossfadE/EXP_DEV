@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Package/BLoC/MultiBlocProvider.md",
+                "file": "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Package/BLoC/MultiBlocProvider.md",
+                "file": "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Package/BLoC/MultiBlocProvider.md",
+                "file": "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Package/BLoC/MultiBlocProvider.md"
+                "file": "Flutter/Метода/Методи Flutter/build(BuildContext context).md"
               }
             }
           }
@@ -150,9 +150,21 @@
   },
   "active": "59e7b43a788f784b",
   "lastOpenFiles": [
+    "API.md",
+    "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
+    "Flutter/Метода/Інформація.md",
+    "Flutter/Іменовані аргументи.md",
+    "Flutter/Flutter.md",
+    "Flutter/Функції Flutter.md",
+    "Flutter/abstract calss.md",
+    "Flutter/Структура Flutter.md",
+    "Flutter/Початок роботи.md",
+    "Flutter/Метода/copyWith.md",
+    "Flutter/Метода/toJson.md",
+    "Flutter/Метода/fromJson.md",
+    "Flutter/Package/BLoC/MultiBlocProvider.md",
     "Flutter/Package/BLoC/Bloc State.md",
     "Flutter/Package/BLoC/Bloc.md",
-    "Flutter/Package/BLoC/MultiBlocProvider.md",
     "Flutter/Package/BLoC/BlocBuilder.md",
     "Flutter/Package/BLoC/BlocProvider.md",
     "Dart/Інформація/Об'єкти.md",
@@ -164,19 +176,7 @@
     "Flutter/Віджети/StatefulWidget.md",
     "Flutter/Віджети/Scaffold.md",
     "Flutter/Віджети/SafeArea.md",
-    "Flutter/Метода/Інформація.md",
-    "Flutter/Метода/toJson.md",
-    "Flutter/Метода/fromJson.md",
-    "Flutter/Метода/copyWith.md",
-    "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
     "Flutter/Віджети/Expanded.md",
-    "Flutter/Властивості/MediaQuery.md",
-    "Flutter/Flutter.md",
-    "Flutter/abstract calss.md",
-    "Flutter/Функції Flutter.md",
-    "Flutter/Структура Flutter.md",
-    "Flutter/Початок роботи.md",
-    "Flutter/Іменовані аргументи.md",
     "Flutter/Властивості",
     "Flutter/Метода/Методи Flutter",
     "Flutter/Віджети/Без назви",
