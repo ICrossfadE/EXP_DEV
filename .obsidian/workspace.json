@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
+                "file": "API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a92141f0b68cc51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/Класи/Клас для роботи з JSON.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
+                "file": "Flutter/Класи/Клас для роботи з JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
+                "file": "Flutter/Класи/Клас для роботи з JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Метода/Методи Flutter/build(BuildContext context).md"
+                "file": "Flutter/Класи/Клас для роботи з JSON.md"
               }
             }
           }
@@ -148,20 +161,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59e7b43a788f784b",
+  "active": "a92141f0b68cc51a",
   "lastOpenFiles": [
-    "API.md",
+    "Flutter/@override.md",
+    "Flutter/Іменовані аргументи.md",
+    "Flutter/Початок роботи.md",
     "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
     "Flutter/Метода/Інформація.md",
-    "Flutter/Іменовані аргументи.md",
+    "Flutter/Метода/copyWith.md",
+    "Flutter/Метода/fromJson.md",
+    "Flutter/Метода/toJson.md",
+    "Postman.md",
+    "API.md",
     "Flutter/Flutter.md",
     "Flutter/Функції Flutter.md",
     "Flutter/abstract calss.md",
     "Flutter/Структура Flutter.md",
-    "Flutter/Початок роботи.md",
-    "Flutter/Метода/copyWith.md",
-    "Flutter/Метода/toJson.md",
-    "Flutter/Метода/fromJson.md",
     "Flutter/Package/BLoC/MultiBlocProvider.md",
     "Flutter/Package/BLoC/Bloc State.md",
     "Flutter/Package/BLoC/Bloc.md",
@@ -175,8 +190,6 @@
     "Flutter/Віджети/StatelessWidget.md",
     "Flutter/Віджети/StatefulWidget.md",
     "Flutter/Віджети/Scaffold.md",
-    "Flutter/Віджети/SafeArea.md",
-    "Flutter/Віджети/Expanded.md",
     "Flutter/Властивості",
     "Flutter/Метода/Методи Flutter",
     "Flutter/Віджети/Без назви",
