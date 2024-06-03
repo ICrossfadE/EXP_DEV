@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a92141f0b68cc51a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter/Класи/Клас для роботи з JSON.md",
+                "file": "Flutter/HTTP and BLoC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Класи/Клас для роботи з JSON.md",
+                "file": "Flutter/HTTP and BLoC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Класи/Клас для роботи з JSON.md",
+                "file": "Flutter/HTTP and BLoC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Класи/Клас для роботи з JSON.md"
+                "file": "Flutter/HTTP and BLoC.md"
               }
             }
           }
@@ -161,8 +148,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a92141f0b68cc51a",
+  "active": "59e7b43a788f784b",
   "lastOpenFiles": [
+    "Dart/Класи/Future.md",
+    "Dart/Dart info.md",
+    "Dart/Класи/Без назви",
+    "Dart/Класи",
+    "Dart/Інформація/Функції.md",
+    "Dart/Інформація/Структура Dart.md",
+    "Dart/Інформація/Списки данних.md",
+    "Dart/Інформація/Перетворення типів.md",
+    "Dart/Інформація/Об'єкти.md",
+    "Dart/Інформація/Змінні та ключові слова.md",
+    "Dart/Інформація/Арифметичні дії.md",
+    "Flutter/Класи/Клас для роботи з JSON.md",
+    "Flutter/HTTP and BLoC.md",
+    "API.md",
+    "Postman.md",
+    "().md",
+    "Flutter/Package/BLoC/MultiBlocProvider.md",
+    "Flutter/Package/BLoC/BlocProvider.md",
+    "Flutter/Package/BLoC/BlocBuilder.md",
+    "Flutter/Package/BLoC/Bloc State.md",
+    "Flutter/Package/BLoC/Bloc.md",
     "Flutter/@override.md",
     "Flutter/Іменовані аргументи.md",
     "Flutter/Початок роботи.md",
@@ -170,26 +178,7 @@
     "Flutter/Метода/Інформація.md",
     "Flutter/Метода/copyWith.md",
     "Flutter/Метода/fromJson.md",
-    "Flutter/Метода/toJson.md",
-    "Postman.md",
-    "API.md",
-    "Flutter/Flutter.md",
-    "Flutter/Функції Flutter.md",
-    "Flutter/abstract calss.md",
-    "Flutter/Структура Flutter.md",
-    "Flutter/Package/BLoC/MultiBlocProvider.md",
-    "Flutter/Package/BLoC/Bloc State.md",
-    "Flutter/Package/BLoC/Bloc.md",
-    "Flutter/Package/BLoC/BlocBuilder.md",
-    "Flutter/Package/BLoC/BlocProvider.md",
-    "Dart/Інформація/Об'єкти.md",
-    "Dart/Інформація/Змінні та ключові слова.md",
-    "Dart/Інформація/Арифметичні дії.md",
-    "Dart/Dart info.md",
     "Flutter/Package/BLoC",
-    "Flutter/Віджети/StatelessWidget.md",
-    "Flutter/Віджети/StatefulWidget.md",
-    "Flutter/Віджети/Scaffold.md",
     "Flutter/Властивості",
     "Flutter/Метода/Методи Flutter",
     "Flutter/Віджети/Без назви",
@@ -197,9 +186,7 @@
     "Flutter/Package",
     "Flutter/Метода",
     "Flutter/Віджети",
-    "Dart",
     "Без назви.canvas",
-    "Без назви 1.canvas",
-    "Dart/Інформація"
+    "Без назви 1.canvas"
   ]
 }
