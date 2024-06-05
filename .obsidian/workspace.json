@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/HTTP and BLoC.md",
+                "file": "Flutter/Package/BLoC/BlocProvider.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/HTTP and BLoC.md",
+                "file": "Flutter/Package/BLoC/BlocProvider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/HTTP and BLoC.md",
+                "file": "Flutter/Package/BLoC/BlocProvider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/HTTP and BLoC.md"
+                "file": "Flutter/Package/BLoC/BlocProvider.md"
               }
             }
           }
@@ -150,6 +150,11 @@
   },
   "active": "59e7b43a788f784b",
   "lastOpenFiles": [
+    "Pasted image 20240605121421.png",
+    "Pasted image 20240605121236.png",
+    "Pasted image 20240605121012.png",
+    "Flutter/Віджети/Що таке Widget.md",
+    "Flutter/HTTP and BLoC.md",
     "Dart/Класи/Future.md",
     "Dart/Dart info.md",
     "Dart/Класи/Без назви",
@@ -162,7 +167,6 @@
     "Dart/Інформація/Змінні та ключові слова.md",
     "Dart/Інформація/Арифметичні дії.md",
     "Flutter/Класи/Клас для роботи з JSON.md",
-    "Flutter/HTTP and BLoC.md",
     "API.md",
     "Postman.md",
     "().md",
@@ -176,8 +180,6 @@
     "Flutter/Початок роботи.md",
     "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
     "Flutter/Метода/Інформація.md",
-    "Flutter/Метода/copyWith.md",
-    "Flutter/Метода/fromJson.md",
     "Flutter/Package/BLoC",
     "Flutter/Властивості",
     "Flutter/Метода/Методи Flutter",
