@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Package/BLoC/BlocProvider.md",
+                "file": "Flutter/Package/BLoC/Bloc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Package/BLoC/BlocProvider.md",
+                "file": "Flutter/Package/BLoC/Bloc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Package/BLoC/BlocProvider.md",
+                "file": "Flutter/Package/BLoC/Bloc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Package/BLoC/BlocProvider.md"
+                "file": "Flutter/Package/BLoC/Bloc.md"
               }
             }
           }
@@ -150,6 +150,23 @@
   },
   "active": "59e7b43a788f784b",
   "lastOpenFiles": [
+    "Flutter/Package/BLoC/Data Repository.md",
+    "Pasted image 20240605154706.png",
+    "Pasted image 20240605154506.png",
+    "Flutter/Package/BLoC/Data Provider.md",
+    "Pasted image 20240605153940.png",
+    "Flutter/Package/BLoC/RepositoryProvider.md",
+    "Flutter/Package/BLoC/Bloc.md",
+    "Pasted image 20240605135348.png",
+    "Flutter/Package/BLoC/BlocСonsumer.md",
+    "Pasted image 20240605131634.png",
+    "Flutter/Package/BLoC/BlocListener.md",
+    "Flutter/Package/BLoC/MultiBlocProvider.md",
+    "Flutter/@override.md",
+    "Flutter/Package/BLoC/BlocProvider.md",
+    "Flutter/Package/BLoC/Bloc State.md",
+    "Flutter/Package/BLoC/BlocBuilder.md",
+    "Pasted image 20240605123724.png",
     "Pasted image 20240605121421.png",
     "Pasted image 20240605121236.png",
     "Pasted image 20240605121012.png",
@@ -169,17 +186,6 @@
     "Flutter/Класи/Клас для роботи з JSON.md",
     "API.md",
     "Postman.md",
-    "().md",
-    "Flutter/Package/BLoC/MultiBlocProvider.md",
-    "Flutter/Package/BLoC/BlocProvider.md",
-    "Flutter/Package/BLoC/BlocBuilder.md",
-    "Flutter/Package/BLoC/Bloc State.md",
-    "Flutter/Package/BLoC/Bloc.md",
-    "Flutter/@override.md",
-    "Flutter/Іменовані аргументи.md",
-    "Flutter/Початок роботи.md",
-    "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
-    "Flutter/Метода/Інформація.md",
     "Flutter/Package/BLoC",
     "Flutter/Властивості",
     "Flutter/Метода/Методи Flutter",
