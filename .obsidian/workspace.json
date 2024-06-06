@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Package/BLoC/Bloc.md",
+                "file": "Flutter/Package/BLoC/Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Package/BLoC/Bloc.md",
+                "file": "Flutter/Package/BLoC/Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Package/BLoC/Bloc.md",
+                "file": "Flutter/Package/BLoC/Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Package/BLoC/Bloc.md"
+                "file": "Flutter/Package/BLoC/Routing.md"
               }
             }
           }
@@ -150,13 +150,15 @@
   },
   "active": "59e7b43a788f784b",
   "lastOpenFiles": [
+    "Flutter/Package/BLoC/Bloc.md",
+    "Flutter/Package/BLoC/Routing.md",
+    "Flutter/Package/BLoC/Без назви",
     "Flutter/Package/BLoC/Data Repository.md",
     "Pasted image 20240605154706.png",
     "Pasted image 20240605154506.png",
     "Flutter/Package/BLoC/Data Provider.md",
     "Pasted image 20240605153940.png",
     "Flutter/Package/BLoC/RepositoryProvider.md",
-    "Flutter/Package/BLoC/Bloc.md",
     "Pasted image 20240605135348.png",
     "Flutter/Package/BLoC/BlocСonsumer.md",
     "Pasted image 20240605131634.png",
@@ -193,7 +195,6 @@
     "Flutter/Класи",
     "Flutter/Package",
     "Flutter/Метода",
-    "Flutter/Віджети",
     "Без назви.canvas",
     "Без назви 1.canvas"
   ]
