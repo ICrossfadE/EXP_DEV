@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Package/BLoC/Hydrated Bloc.md",
+                "file": "Dart/Інформація/Знак питання.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "732510c9c20949b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/Метода/Методи Flutter/where(...).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Package/BLoC/Hydrated Bloc.md",
+                "file": "Flutter/Метода/Методи Flutter/where(...).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Package/BLoC/Hydrated Bloc.md",
+                "file": "Flutter/Метода/Методи Flutter/where(...).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Package/BLoC/Hydrated Bloc.md"
+                "file": "Flutter/Метода/Методи Flutter/where(...).md"
               }
             }
           }
@@ -148,46 +161,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59e7b43a788f784b",
+  "active": "732510c9c20949b3",
   "lastOpenFiles": [
-    "Flutter/Package/BLoC/Routing.md",
+    "Знак Оклику.md",
+    "Flutter/Метода/Методи Flutter/where(...).md",
+    "Flutter/Класи/Клас для роботи з JSON.md",
+    "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
+    "Flutter/Метода/Інформація.md",
+    "Flutter/Метода/copyWith.md",
+    "Flutter/Метода/fromJson.md",
+    "Flutter/Метода/initState (castom).md",
+    "Flutter/Метода/isEmpty.md",
+    "Flutter/Метода/toJson.md",
+    "ApiRepository.md",
+    "Dart/Інформація/Знак питання.md",
+    "Dart/Інформація/Арифметичні дії.md",
+    "Dart/Інформація/Змінні та ключові слова.md",
+    "Dart/Інформація/Об'єкти.md",
+    "Dart/Інформація/Перетворення типів.md",
+    "Dart/Інформація/Списки данних.md",
+    "Dart/Інформація/Структура Dart.md",
+    "Dart/Інформація/Функції.md",
+    "Dart/Класи/Future.md",
+    "Flutter/Метода/Методи Flutter/setState.md",
+    "Flutter/Метода/Методи Flutter/of.md",
+    "Flutter/Метода/Методи Flutter/elementAt.md",
+    "Dart/Dart info.md",
     "Flutter/Package/BLoC/Hydrated Bloc.md",
-    "Flutter/Package/BLoC/Bloc.md",
+    "Flutter/Package/BLoC/Routing.md",
     "Flutter/Package/BLoC/Без назви",
-    "Flutter/Package/BLoC/Data Repository.md",
     "Pasted image 20240605154706.png",
     "Pasted image 20240605154506.png",
-    "Flutter/Package/BLoC/Data Provider.md",
     "Pasted image 20240605153940.png",
-    "Flutter/Package/BLoC/RepositoryProvider.md",
     "Pasted image 20240605135348.png",
-    "Flutter/Package/BLoC/BlocСonsumer.md",
     "Pasted image 20240605131634.png",
-    "Flutter/Package/BLoC/BlocListener.md",
-    "Flutter/Package/BLoC/MultiBlocProvider.md",
-    "Flutter/@override.md",
-    "Flutter/Package/BLoC/BlocProvider.md",
-    "Flutter/Package/BLoC/Bloc State.md",
-    "Flutter/Package/BLoC/BlocBuilder.md",
     "Pasted image 20240605123724.png",
     "Pasted image 20240605121421.png",
     "Pasted image 20240605121236.png",
     "Pasted image 20240605121012.png",
-    "Flutter/Віджети/Що таке Widget.md",
-    "Flutter/HTTP and BLoC.md",
-    "Dart/Класи/Future.md",
-    "Dart/Dart info.md",
     "Dart/Класи/Без назви",
     "Dart/Класи",
-    "Dart/Інформація/Функції.md",
-    "Dart/Інформація/Структура Dart.md",
-    "Dart/Інформація/Списки данних.md",
-    "Dart/Інформація/Перетворення типів.md",
-    "Dart/Інформація/Об'єкти.md",
-    "Dart/Інформація/Змінні та ключові слова.md",
-    "Dart/Інформація/Арифметичні дії.md",
-    "Flutter/Класи/Клас для роботи з JSON.md",
-    "API.md",
     "Flutter/Package/BLoC",
     "Flutter/Властивості",
     "Flutter/Метода/Методи Flutter",
