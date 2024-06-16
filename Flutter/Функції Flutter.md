@@ -6,7 +6,25 @@ void main() {
 	runApp(const MyApp())
 }
 ```
+---
+```dart
+void main() {
+	WidgetsFlutterBinding.ensureInitialized()
+	runApp(const MyApp())
+}
+```
 
+**`WidgetsFlutterBinding.ensureInitialized()`**:
 
-> [!NOTE] Виклик конструктора класу.
-> Dart відає перевагу використанні `const` замість `new` для створення екземплярів константних конструкторів.
+- Ця функція забезпечує правильну ініціалізацію Flutter додатку перед виконанням асинхронного коду. Це обов'язково, якщо ви використовуєте будь-який асинхронний код до виклику `runApp`.
+---
+```dart
+void main() {
+	await Firebase.initializeApp()
+	runApp(const MyApp())
+}
+```
+
+**`await Firebase.initializeApp()`**:
+
+- Ініціалізує Firebase в додатку. Це потрібно для того, щоб використовувати сервіси Firebase, такі як аутентифікація, база даних тощо.
