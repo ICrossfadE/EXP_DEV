@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Знак Оклику.md",
+                "file": "Dart/Dart info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c79eb81de9a4a5ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/Додавання унікальної іконки додатку.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/Знак Оклику.md",
+                "file": "Flutter/Додавання унікальної іконки додатку.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/Знак Оклику.md",
+                "file": "Flutter/Додавання унікальної іконки додатку.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/Знак Оклику.md"
+                "file": "Flutter/Додавання унікальної іконки додатку.md"
               }
             }
           }
@@ -148,11 +161,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a201ff3b3e9786f",
+  "active": "c79eb81de9a4a5ea",
   "lastOpenFiles": [
-    "Flutter/Приватні конструктори.md",
+    "Flutter/Робота з картинками.md",
+    "Flutter/Структура Flutter.md",
+    "Easyapp.md",
+    "Flutter/Додавання унікальної іконки додатку.md",
+    "YAML.md",
     "Dart/Dart info.md",
+    "Dart/Інформація/Функції.md",
     "Dart/Знак Оклику.md",
+    "Flutter/Приватні конструктори.md",
     "Flutter/abstract calss.md",
     "Flutter/Implements.md",
     "Flutter/Monorepo.md",
@@ -172,12 +191,6 @@
     "Flutter/Метода/Інформація.md",
     "Flutter/Метода/fromJson.md",
     "Flutter/Метода/initState (castom).md",
-    "Flutter/Метода/isEmpty.md",
-    "Flutter/Метода/toJson.md",
-    "Flutter/ApiRepository.md",
-    "Dart/Інформація/Знак питання.md",
-    "Dart/Інформація/Арифметичні дії.md",
-    "Dart/Інформація/Змінні та ключові слова.md",
     "Flutter/Package/BLoC/Без назви",
     "Pasted image 20240605154706.png",
     "Pasted image 20240605154506.png",
