@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Додавання унікальної іконки додатку.md",
+                "file": "Flutter/Додавання іконки додатку.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79d732e8c5f80c03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/Віджети/Container.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Додавання унікальної іконки додатку.md",
+                "file": "Flutter/Віджети/Container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Додавання унікальної іконки додатку.md",
+                "file": "Flutter/Віджети/Container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Додавання унікальної іконки додатку.md"
+                "file": "Flutter/Віджети/Container.md"
               }
             }
           }
@@ -161,12 +173,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c79eb81de9a4a5ea",
+  "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
+    "Без назви.md",
+    "Flutter/Віджети/Container.md",
+    "24.05.24.png",
+    "Flutter/Додавання іконки додатку.md",
     "Flutter/Робота з картинками.md",
     "Flutter/Структура Flutter.md",
     "Easyapp.md",
-    "Flutter/Додавання унікальної іконки додатку.md",
     "YAML.md",
     "Dart/Dart info.md",
     "Dart/Інформація/Функції.md",
@@ -189,8 +204,6 @@
     "Flutter/Класи/Клас для роботи з JSON.md",
     "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
     "Flutter/Метода/Інформація.md",
-    "Flutter/Метода/fromJson.md",
-    "Flutter/Метода/initState (castom).md",
     "Flutter/Package/BLoC/Без назви",
     "Pasted image 20240605154706.png",
     "Pasted image 20240605154506.png",
