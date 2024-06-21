@@ -2,8 +2,7 @@
 > [!Dart] Dart
 > Мова була створена в 2011 р  компанією Google.
 
-
-Основна мета створення Dart це заміна JavaScript.
+Dart ще називають ==Statically Typed Language== (статично набраною мовою).
 
 ---
 
