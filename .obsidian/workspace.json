@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Віджети/Buttons.md",
+                "file": "Flutter/Hot Reload.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Віджети/Buttons.md",
+                "file": "Flutter/Hot Reload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Віджети/Buttons.md",
+                "file": "Flutter/Hot Reload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Віджети/Buttons.md"
+                "file": "Flutter/Hot Reload.md"
               }
             }
           }
@@ -175,8 +175,9 @@
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
-    "Flutter/Віджети/Expanded.md",
     "Flutter/Віджети/Buttons.md",
+    "Flutter/Hot Reload.md",
+    "Flutter/Віджети/Expanded.md",
     "Flutter/Віджети/Container.md",
     "Без назви.md",
     "24.05.24.png",
@@ -203,7 +204,6 @@
     "Firebase/packages",
     "Firebase",
     "Flutter/Метода/Методи Flutter/where(...).md",
-    "Flutter/Класи/Клас для роботи з JSON.md",
     "Flutter/Package/BLoC/Без назви",
     "Pasted image 20240605154706.png",
     "Pasted image 20240605154506.png",
