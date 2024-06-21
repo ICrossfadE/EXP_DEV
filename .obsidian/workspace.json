@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Віджети/Container.md",
+                "file": "Flutter/Віджети/Buttons.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Віджети/Container.md",
+                "file": "Flutter/Віджети/Buttons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Віджети/Container.md",
+                "file": "Flutter/Віджети/Buttons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Віджети/Container.md"
+                "file": "Flutter/Віджети/Buttons.md"
               }
             }
           }
@@ -175,8 +175,10 @@
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
-    "Без назви.md",
+    "Flutter/Віджети/Expanded.md",
+    "Flutter/Віджети/Buttons.md",
     "Flutter/Віджети/Container.md",
+    "Без назви.md",
     "24.05.24.png",
     "Flutter/Додавання іконки додатку.md",
     "Flutter/Робота з картинками.md",
@@ -202,8 +204,6 @@
     "Firebase",
     "Flutter/Метода/Методи Flutter/where(...).md",
     "Flutter/Класи/Клас для роботи з JSON.md",
-    "Flutter/Метода/Методи Flutter/build(BuildContext context).md",
-    "Flutter/Метода/Інформація.md",
     "Flutter/Package/BLoC/Без назви",
     "Pasted image 20240605154706.png",
     "Pasted image 20240605154506.png",
