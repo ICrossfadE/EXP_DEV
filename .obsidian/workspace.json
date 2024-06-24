@@ -13,14 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Інформація/Змінні та ключові слова.md",
+                "file": "Dart/Dart info.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "79d732e8c5f80c03",
+            "id": "c79eb81de9a4a5ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dart/Інформація/Ключові слова змінних.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e70bc774c0aab2cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/Інформація/Типи даних.md",
+                "file": "Dart/Інформація/Ключові слова змінних.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/Інформація/Типи даних.md",
+                "file": "Dart/Інформація/Ключові слова змінних.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/Інформація/Типи даних.md"
+                "file": "Dart/Інформація/Ключові слова змінних.md"
               }
             }
           }
@@ -151,31 +163,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Відкрити провідник файлів": false,
-      "graph:Граф": false,
-      "canvas:Створити нове полотно": false,
-      "daily-notes:Сьогоднішня нотатка": false,
-      "templates:Вставити шаблон": false,
-      "command-palette:Відкрити меню команд": false,
-      "markdown-importer:Імпорт Markdown-файлів": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "79d732e8c5f80c03",
+  "active": "c79eb81de9a4a5ea",
   "lastOpenFiles": [
-    "Dart/Інформація/Змінні та ключові слова.md",
+    "Dart/Інформація/Арифметичні дії.md",
+    "Dart/Інформація/Ключові слова змінних.md",
+    "Dart/Інформація/Типи даних.md",
+    "Dart/Інформація/Структура Dart.md",
+    "Dart/Інформація/Функції.md",
+    "Ключові слова змінних.md",
+    "Dart/Інформація/Main.md",
+    "Dart/Метода/Метод Print().md",
+    "Dart/Метода/Метода масива.md",
+    "Dart/Dart info.md",
     "Dart/Інформація/Знак питання.md",
     "Dart/Інформація/Об'єкти.md",
     "Dart/Інформація/Перетворення типів.md",
-    "Dart/Інформація/Структура Dart.md",
-    "Dart/Інформація/Функції.md",
-    "Dart/Інформація/Типи даних.md",
-    "Dart/Dart info.md",
+    "Flutter/Початок роботи.md",
     "Flutter/Додавання іконки додатку.md",
-    "Dart/Інформація/Списки данних.md",
-    "Dart/Інформація/Арифметичні дії.md",
-    "Dart/Класи/Future.md",
-    "Dart/Знак Оклику.md",
     "Flutter/Hot Reload.md",
     "Flutter/Віджети/Buttons.md",
     "Flutter/Віджети/Expanded.md",
@@ -186,10 +200,8 @@
     "Flutter/Структура Flutter.md",
     "Easyapp.md",
     "YAML.md",
+    "Dart/Знак Оклику.md",
     "Flutter/Приватні конструктори.md",
-    "Flutter/abstract calss.md",
-    "Flutter/Implements.md",
-    "Flutter/Monorepo.md",
     "Firebase/packages",
     "Firebase",
     "Flutter/Package/BLoC/Без назви",
