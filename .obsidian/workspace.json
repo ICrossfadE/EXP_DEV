@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Метода/Методи Dart/List методи.md",
+                "file": "Flutter/Hot Reload.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/Метода/Методи Dart/List методи.md",
+                "file": "Flutter/Hot Reload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/Метода/Методи Dart/List методи.md",
+                "file": "Flutter/Hot Reload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/Метода/Методи Dart/List методи.md"
+                "file": "Flutter/Hot Reload.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
-    "Dart/Інформація/Ключові слова змінних.md",
     "Dart/Метода/Методи Dart/List методи.md",
+    "Dart/Інформація/Ключові слова змінних.md",
     "Dart/Метода/Методи Dart",
     "Dart/Інформація/Об'єкти.md",
     "Dart/Інформація/Перетворення типів.md",
