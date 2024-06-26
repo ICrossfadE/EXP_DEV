@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Інформація/Class.md",
+                "file": "Flutter/@override.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/Інформація/Class.md",
+                "file": "Flutter/@override.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/Інформація/Class.md",
+                "file": "Flutter/@override.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/Інформація/Class.md"
+                "file": "Flutter/@override.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
+    "Dart/Інформація/Class.md",
     "Flutter/Класи/Клас для роботи з JSON.md",
     "Flutter/Приватні конструктори.md",
     "Flutter/Робота з картинками.md",
@@ -164,7 +165,6 @@
     "Dart/Метода/Методи Dart/List методи.md",
     "Dart/Інформація/Ключові слова змінних.md",
     "Dart/Метода/Методи Dart",
-    "Dart/Інформація/Class.md",
     "Dart/Інформація/Перетворення типів.md",
     "Dart/Інформація/Структура Dart.md",
     "Dart/Інформація/Типи даних.md",
