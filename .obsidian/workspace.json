@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Hot Reload.md",
+                "file": "Dart/Інформація/Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Hot Reload.md",
+                "file": "Dart/Інформація/Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Hot Reload.md",
+                "file": "Dart/Інформація/Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Hot Reload.md"
+                "file": "Dart/Інформація/Class.md"
               }
             }
           }
@@ -150,10 +150,21 @@
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
+    "Flutter/Класи/Клас для роботи з JSON.md",
+    "Flutter/Приватні конструктори.md",
+    "Flutter/Робота з картинками.md",
+    "Flutter/Структура Flutter.md",
+    "Flutter/abstract calss.md",
+    "Flutter/Функції Flutter.md",
+    "Flutter/API.md",
+    "Flutter/ApiRepository.md",
+    "Flutter/Flutter.md",
+    "Flutter/Віджети/Що таке Widget.md",
+    "Flutter/Hot Reload.md",
     "Dart/Метода/Методи Dart/List методи.md",
     "Dart/Інформація/Ключові слова змінних.md",
     "Dart/Метода/Методи Dart",
-    "Dart/Інформація/Об'єкти.md",
+    "Dart/Інформація/Class.md",
     "Dart/Інформація/Перетворення типів.md",
     "Dart/Інформація/Структура Dart.md",
     "Dart/Інформація/Типи даних.md",
@@ -166,18 +177,7 @@
     "Dart/Інформація/Main.md",
     "Dart/Інформація/Змінні та ключові слова.md",
     "Dart/Dart info.md",
-    "Flutter/Додавання іконки додатку.md",
-    "Dart/Інформація/Списки данних.md",
-    "Dart/Класи/Future.md",
-    "Dart/Знак Оклику.md",
-    "Flutter/Hot Reload.md",
-    "Flutter/Віджети/Buttons.md",
-    "Flutter/Віджети/Container.md",
-    "Без назви.md",
     "24.05.24.png",
-    "Flutter/Робота з картинками.md",
-    "Flutter/Структура Flutter.md",
-    "Easyapp.md",
     "Firebase/packages",
     "Firebase",
     "Flutter/Package/BLoC/Без назви",
