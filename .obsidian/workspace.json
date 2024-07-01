@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Віджети/Що таке Widget.md",
+                "file": "Flutter/Функції Flutter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a800a78d19df2d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/Типи функцій.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Віджети/Що таке Widget.md",
+                "file": "Flutter/Типи функцій.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Віджети/Що таке Widget.md",
+                "file": "Flutter/Типи функцій.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Віджети/Що таке Widget.md"
+                "file": "Flutter/Типи функцій.md"
               }
             }
           }
@@ -148,15 +161,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "79d732e8c5f80c03",
+  "active": "dc33a1bf87f31cee",
   "lastOpenFiles": [
+    "Flutter/Функції Flutter.md",
+    "Flutter/Типи функцій.md",
+    "Flutter/Віджети/Що таке Widget.md",
     "Flutter/Flutter Themes.md",
     "Flutter/Початок роботи.md",
     "Flutter/Іменовані аргументи.md",
     "Flutter/Приватні конструктори.md",
     "Flutter/Робота з картинками.md",
     "Flutter/Структура Flutter.md",
-    "Flutter/Функції Flutter.md",
     "Flutter/API.md",
     "Flutter/ApiRepository.md",
     "Flutter/Monorepo.md",
@@ -164,7 +179,6 @@
     "Flutter/Implements.md",
     "Flutter/HTTP and BLoC.md",
     "Flutter/Hot Reload.md",
-    "Flutter/Віджети/Що таке Widget.md",
     "Flutter/Віджети/Buttons.md",
     "Flutter/Віджети/Container.md",
     "Flutter/Віджети/Expanded.md",
@@ -175,7 +189,6 @@
     "Flutter/@override.md",
     "Dart/Інформація/Class.md",
     "Flutter/Класи/Клас для роботи з JSON.md",
-    "Flutter/abstract calss.md",
     "Dart/Метода/Методи Dart",
     "24.05.24.png",
     "Firebase/packages",
