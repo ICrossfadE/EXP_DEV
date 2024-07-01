@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Flutter Themes.md",
+                "file": "Flutter/Віджети/Що таке Widget.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Flutter Themes.md",
+                "file": "Flutter/Віджети/Що таке Widget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Flutter Themes.md",
+                "file": "Flutter/Віджети/Що таке Widget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Flutter Themes.md"
+                "file": "Flutter/Віджети/Що таке Widget.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
+    "Flutter/Flutter Themes.md",
     "Flutter/Початок роботи.md",
     "Flutter/Іменовані аргументи.md",
     "Flutter/Приватні конструктори.md",
@@ -163,7 +164,6 @@
     "Flutter/Implements.md",
     "Flutter/HTTP and BLoC.md",
     "Flutter/Hot Reload.md",
-    "Flutter/Flutter Themes.md",
     "Flutter/Віджети/Що таке Widget.md",
     "Flutter/Віджети/Buttons.md",
     "Flutter/Віджети/Container.md",
