@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Інформація/Функції.md",
+                "file": "Flutter/Файл констант.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/Інформація/Функції.md",
+                "file": "Flutter/Файл констант.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/Інформація/Функції.md",
+                "file": "Flutter/Файл констант.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/Інформація/Функції.md"
+                "file": "Flutter/Файл констант.md"
               }
             }
           }
@@ -138,21 +138,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "markdown-importer:Імпорт Markdown-файлів": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
+    "Dart/Інформація/Class.md",
+    "Flutter/Файл констант.md",
+    "Dart/Інформація/Функції.md",
     "Flutter/Типи функцій.md",
     "Flutter/Flutter Themes.md",
-    "Dart/Інформація/Class.md",
     "Dart/Знак Оклику.md",
     "Flutter/Flutter.md",
     "Dart/Functions.md",
@@ -164,7 +166,6 @@
     "Dart/Інформація/Перетворення типів.md",
     "Dart/Інформація/Структура Dart.md",
     "Dart/Інформація/Типи даних.md",
-    "Dart/Інформація/Функції.md",
     "Flutter/Віджети/Scaffold.md",
     "Flutter/Віджети/SafeArea.md",
     "Flutter/Віджети/Expanded.md",
@@ -176,7 +177,6 @@
     "Flutter/Додавання іконки додатку.md",
     "Dart/Інформація/Списки данних.md",
     "Dart/Класи/Future.md",
-    "Flutter/Hot Reload.md",
     "24.05.24.png",
     "Firebase/packages",
     "Firebase",
