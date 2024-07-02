@@ -34,3 +34,23 @@ shuffle
 fruits.shuffle();
 ```
 - Перемішає елементи в масиві.
+---
+removeAt()
+```dart
+fruits.removeAt(1);
+```
+- Видаляє по переданому індексу.
+---
+removeWhere()
+```dart
+fruits.removeWhere((element) => element == 'apples')
+```
+- Видаляє з масиву по переданій йому умові
+---
+first/.last
+```dart
+fruits.first
+fruits.last
+```
+- Повертає перший або останній елемент
+---
