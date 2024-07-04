@@ -1,4 +1,4 @@
->Є три типи маршрутизатора `Anonymos Routing` `Named Routing` `Genrated Routing`.
+Є три типи маршрутизатора `Anonymos Routing` `Named Routing` `Genrated Routing`.
 
 ## Anonymous Routing
 - З назви стає розуміло що це маршрут без оголошення назви. Для такого переходу використовується:
