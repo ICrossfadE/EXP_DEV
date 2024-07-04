@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Клас.md",
+                "file": "Dart/Інформація/Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/Клас.md",
+                "file": "Dart/Інформація/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/Клас.md",
+                "file": "Dart/Інформація/Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/Клас.md"
+                "file": "Dart/Інформація/Map.md"
               }
             }
           }
@@ -138,36 +138,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "markdown-importer:Імпорт Markdown-файлів": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
-    "Dart/Інформація/Знак питання.md",
-    "Dart/Клас.md",
-    "Flutter/Функції Flutter.md",
-    "Flutter/Файл констант.md",
-    "Flutter/Типи функцій.md",
-    "Flutter/Класи/Клас для роботи з JSON.md",
-    "Dart/Метода/Метод Print().md",
-    "Dart/Метода/Методи Dart/List і Set методи.md",
-    "Dart/Future.md",
-    "Flutter/Класи/Untitled.md",
+    "Flutter/Multi-Screen.md",
     "layout.md",
-    "Postman.md",
-    "YAML.md",
-    "Easyapp.md",
-    "24.05.24.png",
+    "Dart/Клас.md",
+    "Dart/Future.md",
     "Flutter/Package/BLoC/Bloc.md",
     "Flutter/Package/BLoC/Routing.md",
-    "Flutter/Multi-Screen.md",
     "Flutter/Package/BLoC/Bloc State.md",
     "Flutter/Package/BLoC/BlocСonsumer.md",
     "Flutter/Package/BLoC/BlocBuilder.md",
@@ -177,7 +165,19 @@
     "Flutter/Package/BLoC/Data Provider.md",
     "Flutter/Package/BLoC/Data Repository.md",
     "Flutter/Package/BLoC/Hydrated Bloc.md",
+    "Flutter/Package/BLoC/MultiBlocProvider.md",
+    "Flutter/Package/BLoC/RepositoryProvider.md",
+    "Flutter/Monorepo.md",
+    "Flutter/Implements.md",
+    "Flutter/HTTP and BLoC.md",
+    "Flutter/Hot Reload.md",
+    "Flutter/Flutter Themes.md",
+    "Flutter/ApiRepository.md",
+    "Flutter/Flutter.md",
+    "Flutter/API.md",
+    "Flutter/Функції Flutter.md",
     "Dart/Метода/Методи Dart",
+    "24.05.24.png",
     "Firebase/packages",
     "Firebase",
     "Flutter/Package/BLoC/Без назви",
