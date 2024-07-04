@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Package/BLoC/Routing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bbe71dab325572a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter/Multi-Screen.md",
+                "file": "Flutter/Package/BLoC/Bloc.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Multi-Screen.md",
+                "file": "Flutter/Package/BLoC/Bloc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Multi-Screen.md",
+                "file": "Flutter/Package/BLoC/Bloc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Multi-Screen.md"
+                "file": "Flutter/Package/BLoC/Bloc.md"
               }
             }
           }
@@ -161,7 +148,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8bbe71dab325572a",
+  "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
     "Flutter/Package/BLoC/Routing.md",
     "Flutter/Multi-Screen.md",

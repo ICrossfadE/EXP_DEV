@@ -70,5 +70,43 @@
 
 В такому підході ми можемо ще використати таку властивість `MaterialApp` як `initialRoute:` замість `home:`. Вона буде ініціалізувати початкову сторінку за переданим її шляхом.
 
+Після такої реалізації потрібно використовувати метод `.pushNamed()` де аргументом ми передаємо рядком назву шляху який існує в нас в `Map`.
+
+```dart
+onPressed: () {
+	Navigator.of(context).pushNamed('/counter');
+},
+```
 
 >Така реалізація підходить для середніх та малих проектів.
+---
+## Generated Routing 
+- Має схожу структуру як іменований маршрут єдина відмінність що потрібна окрема функція в якій потрібно буде все налаштовувати 
+  Приклад:
+  ```dart
+  @override
+  Route onGenerationRoute(RouteSettings settings) {
+	  switch (settings.name){
+		  case '/':
+			  return MaterrialPageRoute(
+				  builder: (_) => BlocProvider.value(
+			value: _counterBloc,
+			child: HomePage(),
+			),
+			break
+		);
+		case '/counter':
+			  return MaterrialPageRoute(
+				  builder: (_) => BlocProvider.value(
+			value: _counterBloc,
+			child: SecondPage(),
+			),
+			break
+		);
+	  }
+	  return null
+  }
+```
+
+>Така реалізація підходить для великих проектів.
+---
