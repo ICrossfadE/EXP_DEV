@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Клас.md",
+                "file": "Flutter/Google Auth/Inplement Auth.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/Клас.md",
+                "file": "Flutter/Google Auth/Inplement Auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/Клас.md",
+                "file": "Flutter/Google Auth/Inplement Auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/Клас.md"
+                "file": "Flutter/Google Auth/Inplement Auth.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
-    "Dart/Інформація/Знак питання.md",
+    "Flutter/Google Auth",
     "Dart/Клас.md",
+    "Flutter/Google Auth/Inplement Auth.md",
+    "Dart/Інформація/Знак питання.md",
     "Flutter/Функції Flutter.md",
     "Flutter/Файл констант.md",
     "Flutter/Типи функцій.md",
@@ -175,8 +177,6 @@
     "Flutter/Package/BLoC/BlocProvider.md",
     "Flutter/Package/BLoC/BuildContext.md",
     "Flutter/Package/BLoC/Data Provider.md",
-    "Flutter/Package/BLoC/Data Repository.md",
-    "Flutter/Package/BLoC/Hydrated Bloc.md",
     "Dart/Метода/Методи Dart",
     "Firebase/packages",
     "Firebase",
