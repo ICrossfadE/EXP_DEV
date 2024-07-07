@@ -136,4 +136,229 @@ abstract class AuthReository {
 ```
 
 ## 5 - Реалізація коду в Bloc та Cumbit 
-...
+- Підключаємо Bloc.
+```dart
+ bloc: ^8.1.4
+ equatable: ^2.0.5
+```
+- Створюємо папку auth-bloc
+- В ній файли `auth_bloc.dart`, `auth_event.dart`, `auth_state.dart`.
+---
+`auth_state.dart`
+```dart
+part of 'auth_google_bloc.dart';
+
+enum AuthStatus { authenticated, unauthenticated, unknown }
+
+class AuthGoogleState extends Equatable {
+  //AuthState._ є приватним конструктором.
+  const AuthGoogleState._({
+    this.status = AuthStatus.unknown,
+    this.user,
+  });
+
+  final AuthStatus status;
+  final User? user;
+
+  // статус невідомий
+  const AuthGoogleState.unknown() : this._();
+
+  // Статус авторизованого користувача
+  const AuthGoogleState.authenticated(User user)
+      : this._(status: AuthStatus.authenticated, user: user);
+
+  // Статут не авторизований
+  const AuthGoogleState.unauthenticated()
+      : this._(status: AuthStatus.unauthenticated);
+
+  @override
+  List<Object?> get props => [status, user];
+}
+```
+---
+`auth_event.dart`
+```dart
+part of 'auth_google_bloc.dart';
+
+class AuthGoogleEvent extends Equatable {
+  const AuthGoogleEvent();
+
+  @override
+  List<Object> get props => [];
+}
+
+final class AppLogoutRequested extends AuthGoogleEvent {
+  const AppLogoutRequested();
+}
+
+final class AppUserChanged extends AuthGoogleEvent {
+  const AppUserChanged(this.user);
+
+  final User? user;
+}
+```
+---
+`auth_bloc.dart`
+```dart
+part 'auth_google_event.dart';
+part 'auth_google_state.dart';
+
+class AuthGoogleBloc extends Bloc<AuthGoogleEvent, AuthGoogleState> {
+  final AuthReository _authRepository;
+  late final StreamSubscription<User?> _userSubscription;
+
+  AuthReository get authRepository => _authRepository;
+
+  AuthGoogleBloc({required AuthReository authRepository})
+      : _authRepository = authRepository,
+        super(const AuthGoogleState.unknown()) {
+    on<AppUserChanged>(_onUserChanged);
+    on<AppLogoutRequested>(_onLogoutRequested);
+    _userSubscription = _authRepository.user.listen(
+      (user) {
+        print(
+            'User state changed: ${user != null ? 'Authenticated' : 'Unauthenticated'}');
+        add(AppUserChanged(user));
+      },
+    );
+  }
+
+  void _onUserChanged(AppUserChanged event, Emitter<AuthGoogleState> emit) {
+    if (event.user != null) {
+      emit(AuthGoogleState.authenticated(event.user!));
+    } else {
+      emit(const AuthGoogleState.unauthenticated());
+    }
+  }
+
+  void _onLogoutRequested(
+      AppLogoutRequested event, Emitter<AuthGoogleState> emit) {
+    unawaited(_authRepository.logOut());
+  }
+
+  @override
+  Future<void> close() {
+    _userSubscription.cancel();
+    return super.close();
+  }
+}
+```
+---
+- Створюємо Cumbut папку `login_google`
+- Створюємо файли `auth_exceptions.dart`, `login_cubit.dart`, `login_state.dart`,
+---
+`auth_exceptions.dart`
+```dart
+class LogInWithGoogleFailure implements Exception {
+  final String message;
+
+  const LogInWithGoogleFailure([this.message = 'An unknown error occurred.']);
+
+  factory LogInWithGoogleFailure.fromCode(String code) {
+    switch (code) {
+      case 'account-exists-with-different-credential':
+        return const LogInWithGoogleFailure(
+          'Account exists with different credentials.',
+        );
+      case 'invalid-credential':
+        return const LogInWithGoogleFailure(
+          'The credential received is malformed or has expired.',
+        );
+      case 'operation-not-allowed':
+        return const LogInWithGoogleFailure(
+          'Operation is not allowed.  Please contact support.',
+        );
+      case 'user-disabled':
+        return const LogInWithGoogleFailure(
+          'This user has been disabled. Please contact support for help.',
+        );
+      case 'user-not-found':
+        return const LogInWithGoogleFailure(
+          'Email is not found, please create an account.',
+        );
+      case 'wrong-password':
+        return const LogInWithGoogleFailure(
+          'Incorrect password, please try again.',
+        );
+      case 'invalid-verification-code':
+        return const LogInWithGoogleFailure(
+          'The credential verification code received is invalid.',
+        );
+      case 'invalid-verification-id':
+        return const LogInWithGoogleFailure(
+          'The credential verification ID received is invalid.',
+        );
+      default:
+        return const LogInWithGoogleFailure();
+    }
+  }
+}
+```
+---
+
+`login_state.dart`
+```dart
+part of 'login_cubit.dart';
+
+enum LoginStatus { initial, inProgress, success, failure }
+
+final class LoginState extends Equatable {
+  const LoginState({
+    this.status = LoginStatus.initial,
+    this.isValid = false,
+    this.errorMessage,
+  });
+
+  final LoginStatus status;
+  final bool isValid;
+  final String? errorMessage;
+
+  @override
+  List<Object?> get props => [status, isValid, errorMessage];
+
+  LoginState copyWith({
+    LoginStatus? status,
+    bool? isValid,
+    String? errorMessage,
+  }) {
+    return LoginState(
+      status: status ?? this.status,
+      isValid: isValid ?? this.isValid,
+      errorMessage: errorMessage ?? this.errorMessage,
+    );
+  }
+}
+```
+---
+`login_cubit.dart`
+```dart
+part 'login_state.dart';
+
+class LoginCubit extends Cubit<LoginState> {
+  LoginCubit(this._authReository) : super(const LoginState());
+
+  final AuthReository _authReository;
+
+  Future<void> logInWithGoogle() async {
+    emit(state.copyWith(status: LoginStatus.inProgress));
+    try {
+      print('Starting Google Sign In');
+      await _authReository.signInWithGoogle();
+      print('Google Sign In Successful');
+      emit(state.copyWith(status: LoginStatus.success));
+    } on LogInWithGoogleFailure catch (e) {
+      print('Google Sign In Failed: ${e.message}');
+      emit(
+        state.copyWith(
+          errorMessage: e.message,
+          status: LoginStatus.failure,
+        ),
+      );
+    } catch (e) {
+      print('Unexpected error during Google Sign In: $e');
+      emit(state.copyWith(status: LoginStatus.failure));
+    }
+  }
+}
+```
+---

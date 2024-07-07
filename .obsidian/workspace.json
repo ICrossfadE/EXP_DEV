@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Інформація/Арифметичні дії.md",
+                "file": "Flutter/Google Auth/Inplement Auth.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/Інформація/Арифметичні дії.md",
+                "file": "Flutter/Google Auth/Inplement Auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/Інформація/Арифметичні дії.md",
+                "file": "Flutter/Google Auth/Inplement Auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/Інформація/Арифметичні дії.md"
+                "file": "Flutter/Google Auth/Inplement Auth.md"
               }
             }
           }
@@ -150,14 +150,15 @@
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
+    "Dart/Інформація/Map.md",
+    "Dart/Інформація/Main.md",
+    "Dart/Інформація/Арифметичні дії.md",
     "Dart/Інформація/Знак питання.md",
     "Dart/Інформація/Перетворення типів.md",
     "Dart/Інформація/Структура Dart.md",
     "Dart/Інформація/Ключові слова змінних.md",
     "Dart/Інформація/Типи даних.md",
     "Dart/Інформація/Функції.md",
-    "Dart/Інформація/Map.md",
-    "Dart/Інформація/Main.md",
     "Dart/Інформація/Class.md",
     "Flutter/Google Auth/Inplement Auth.md",
     "Flutter/Google Auth",
@@ -177,7 +178,6 @@
     "24.05.24.png",
     "Flutter/Package/BLoC/Bloc.md",
     "Flutter/Package/BLoC/Routing.md",
-    "Flutter/Multi-Screen.md",
     "Dart/Метода/Методи Dart",
     "Firebase/packages",
     "Firebase",
