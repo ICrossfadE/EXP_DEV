@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Google Auth/Inplement Auth.md",
+                "file": "Dart/Інформація/Арифметичні дії.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Google Auth/Inplement Auth.md",
+                "file": "Dart/Інформація/Арифметичні дії.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Google Auth/Inplement Auth.md",
+                "file": "Dart/Інформація/Арифметичні дії.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Google Auth/Inplement Auth.md"
+                "file": "Dart/Інформація/Арифметичні дії.md"
               }
             }
           }
@@ -150,10 +150,18 @@
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
+    "Dart/Інформація/Знак питання.md",
+    "Dart/Інформація/Перетворення типів.md",
+    "Dart/Інформація/Структура Dart.md",
+    "Dart/Інформація/Ключові слова змінних.md",
+    "Dart/Інформація/Типи даних.md",
+    "Dart/Інформація/Функції.md",
+    "Dart/Інформація/Map.md",
+    "Dart/Інформація/Main.md",
+    "Dart/Інформація/Class.md",
+    "Flutter/Google Auth/Inplement Auth.md",
     "Flutter/Google Auth",
     "Dart/Клас.md",
-    "Flutter/Google Auth/Inplement Auth.md",
-    "Dart/Інформація/Знак питання.md",
     "Flutter/Функції Flutter.md",
     "Flutter/Файл констант.md",
     "Flutter/Типи функцій.md",
@@ -170,13 +178,6 @@
     "Flutter/Package/BLoC/Bloc.md",
     "Flutter/Package/BLoC/Routing.md",
     "Flutter/Multi-Screen.md",
-    "Flutter/Package/BLoC/Bloc State.md",
-    "Flutter/Package/BLoC/BlocСonsumer.md",
-    "Flutter/Package/BLoC/BlocBuilder.md",
-    "Flutter/Package/BLoC/BlocListener.md",
-    "Flutter/Package/BLoC/BlocProvider.md",
-    "Flutter/Package/BLoC/BuildContext.md",
-    "Flutter/Package/BLoC/Data Provider.md",
     "Dart/Метода/Методи Dart",
     "Firebase/packages",
     "Firebase",
@@ -195,7 +196,6 @@
     "Flutter/Package/BLoC",
     "Flutter/Властивості",
     "Flutter/Метода/Методи Flutter",
-    "Flutter/Віджети/Без назви",
     "Без назви.canvas",
     "Без назви 1.canvas"
   ]
