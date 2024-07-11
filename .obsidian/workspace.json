@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Інформація/Map.md",
+                "file": "Flutter/Google Auth/Inplement Auth.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/Інформація/Map.md",
+                "file": "Flutter/Google Auth/Inplement Auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/Інформація/Map.md",
+                "file": "Flutter/Google Auth/Inplement Auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/Інформація/Map.md"
+                "file": "Flutter/Google Auth/Inplement Auth.md"
               }
             }
           }
@@ -150,6 +150,12 @@
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
+    "Flutter/Google Auth/Inplement Auth.md",
+    "Flutter/Google Auth",
+    "Dart/Метода/Методи Dart/double.md",
+    "Dart/Метода/Методи Dart/Map методи.md",
+    "Dart/Метода/Методи Dart/List і Set методи.md",
+    "Dart/Інформація/Map.md",
     "Flutter/Multi-Screen.md",
     "layout.md",
     "Dart/Клас.md",
@@ -170,12 +176,6 @@
     "Flutter/Monorepo.md",
     "Flutter/Implements.md",
     "Flutter/HTTP and BLoC.md",
-    "Flutter/Hot Reload.md",
-    "Flutter/Flutter Themes.md",
-    "Flutter/ApiRepository.md",
-    "Flutter/Flutter.md",
-    "Flutter/API.md",
-    "Flutter/Функції Flutter.md",
     "Dart/Метода/Методи Dart",
     "24.05.24.png",
     "Firebase/packages",
@@ -195,7 +195,6 @@
     "Flutter/Package/BLoC",
     "Flutter/Властивості",
     "Flutter/Метода/Методи Flutter",
-    "Flutter/Віджети/Без назви",
     "Без назви.canvas",
     "Без назви 1.canvas"
   ]

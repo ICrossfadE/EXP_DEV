@@ -362,3 +362,99 @@ class LoginCubit extends Cubit<LoginState> {
 }
 ```
 ---
+
+
+## 6 - Ініціалізуємо Firebase в main();
+
+```dart
+void main() async {
+  await Firebase.initializeApp();
+  
+  runApp(MyApp(FirebaseUserRepo()));
+}
+```
+---
+## 7 - Передаємо bloc в BlocProvider;
+
+```dart
+class MyApp extends StatelessWidget {
+  //Отримуємо екземпляр authReository
+  final AuthReository authReository;
+  const MyApp(this.authReository, {super.key});
+
+  
+
+  @override
+  // Головний Інтерфейс
+  Widget build(BuildContext context) {
+    return MultiRepositoryProvider(
+      providers: [
+        RepositoryProvider.value(value: authReository),
+      ],
+      child: MultiBlocProvider(
+        providers: [
+          BlocProvider<AuthGoogleBloc>(
+            create: (context) => AuthGoogleBloc(authRepository: authReository),
+          ),
+        ],
+        child: const AppView(),
+      ),
+    );
+  }
+}
+```
+- Оголошуємо `MultiRepositoryProvider` якщо потрібно в майбутньому передати декілька bloc.
+---
+## 7 - Реалізуємо BlocBilder;
+
+Реалізуємо `BlocBuilder` для динамічної рендера певного місця в коді а не всього перерендуру. 
+```dart
+home: BlocBuilder<AuthGoogleBloc, AuthGoogleState>(
+	builder: (context, state) {
+	  if (state.status == AuthStatus.authenticated) {
+		return BlocProvider(
+		  create: (context) => AuthGoogleBloc(
+			authRepository: context.read<AuthGoogleBloc>().authRepository,
+		  ),
+		  child: const DashboardPage(),
+		);
+	  } else {
+		return BlocProvider(
+		  create: (_) => LoginCubit(context.read<AuthReository>()),
+		  child: const AuthPage(),
+		);
+	  }
+	},
+  ),
+```
+- 
+---
+
+## 9 - Реалізуємо LogIn;
+
+Сторінка `AuthPage()`
+```dart
+ ElevatedButton(
+  onPressed: () {
+	context.read<LoginCubit>().logInWithGoogle();
+  },
+  child: Text('Sign in with Google'),
+)
+```
+
+---
+## 9 - Реалізуємо LogOut;
+
+```dart
+
+ ElevatedButton(
+  onPressed: () {
+	context
+		.read<AuthGoogleBloc>()
+		.add(const AppLogoutRequested());
+  },
+  child: Text('Log Out'),
+)
+```
+- В потрібному місці реалізуємо код на кнопці.
+---
