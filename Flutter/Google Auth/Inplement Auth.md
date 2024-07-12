@@ -42,7 +42,7 @@ Wednesday, August 10, 2044
 - Після встановлення запустіть процес входу та створіть нові облікові дані:\
 
 Необхідні пакети pubspec.yaml.
-```dart
+```yaml
   firebase_core: ^3.1.0
   firebase_auth: ^5.1.0
   google_sign_in: ^6.2.1
@@ -137,7 +137,7 @@ abstract class AuthReository {
 
 ## 5 - Реалізація коду в Bloc та Cumbit 
 - Підключаємо Bloc.
-```dart
+```yaml
  bloc: ^8.1.4
  equatable: ^2.0.5
 ```
