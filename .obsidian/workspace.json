@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Build APK.md",
+                "file": "Flutter/Package/BLoC/Bloc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Build APK.md",
+                "file": "Flutter/Package/BLoC/Bloc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Build APK.md",
+                "file": "Flutter/Package/BLoC/Bloc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Build APK.md"
+                "file": "Flutter/Package/BLoC/Bloc.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
-    "Flutter/Google Auth/Inplement Auth.md",
     "Flutter/Build APK.md",
+    "Flutter/Google Auth/Inplement Auth.md",
     "Flutter/Google Auth",
     "Dart/Метода/Методи Dart/double.md",
     "Dart/Метода/Методи Dart/Map методи.md",
