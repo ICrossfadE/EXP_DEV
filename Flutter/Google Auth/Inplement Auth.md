@@ -473,7 +473,17 @@ home: BlocBuilder<AuthGoogleBloc, AuthGoogleState>(
 	},
   ),
 ```
-- 
+- Далі якщо ми хочемо звернутися до даних `User` на іншій сторінці, до прикладу `DashboardPage()`. Там нам теж потрібно огорнути потрібний елемент в `BlocBuilder`.
+
+```dart
+child: BlocBuilder<AuthGoogleBloc, AuthGoogleState>( 
+	builder: (context, state) { 
+		if (state is AuthGoogleState) { 
+			final user = state.user;
+			return Widget()
+```
+- Тепер `Widget` матиме доступ до `User` і зараз ми можемо отримати до прикладу фото користувача `user.photoURL`.
+
 ---
 
 ## 10 - Реалізуємо LogIn;
