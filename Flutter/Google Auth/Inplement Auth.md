@@ -19,13 +19,14 @@ Wednesday, August 10, 2044
 ```
 *Отримуємо подібний результат, копіюємо SHA1*
 
+---
 ## 2 -  Вставляєм скопійований SHA1 в налаштування проекту
 
 - Заходимо в налаштування проекту та скролимо до самого низу там буде меню 
   `SHA certificate fingerprints`.
 - Вставляємо згенерований SHA1.
 - `cd ..` В терміналі щоб повернутися в корінь проекту.
-
+---
 ## 3 - Завантажуємо google-services.json 
 
 - В налаштуваннях проекту завантажуємо `google-services.json`
@@ -35,7 +36,52 @@ Wednesday, August 10, 2044
 "package_name": "com.coinkeep.app",
 ```
 
-## 4 - Створюємо функціонал авторизації
+---
+## 4 - Модель User якого отримуватимо з Firebase.
+
+```dart
+import 'package:equatable/equatable.dart';
+
+class MyUserEntity extends Equatable {
+  final String userId;
+  final String? email;
+  final String? name;
+  final String? photoUrl;
+
+  const MyUserEntity({
+    required this.userId,
+    this.email,
+    this.name,
+    this.photoUrl,
+  });
+
+  // Перетворюємо в JSON для відправки у Firestore
+  Map<String, Object?> toDocument() {
+    return {
+      'userId': userId,
+      'email': email,
+      'name': name,
+      'photoUrl': photoUrl,
+    };
+  }
+
+  // Перетворюємо в обєкт з Firestore
+  static MyUserEntity fromDocument(Map<String, dynamic> document) {
+    return MyUserEntity(
+      userId: document['userId'],
+      email: document['email'],
+      name: document['name'],
+      photoUrl: document['photoUrl'],
+    );
+  }
+
+  @override
+  List<Object?> get props => [userId, email, name, photoUrl];
+}
+```
+
+---
+## 5 - Створюємо функціонал авторизації
 
 - На власних платформах для запуску процесу автентифікації потрібна стороння бібліотека.
 - Встановіть офіційний [`google_sign_in`](https://pub.dev/packages/google_sign_in)плагін.
@@ -134,8 +180,8 @@ abstract class AuthReository {
   Future<void> logOut(); // Вихід користувача
 }
 ```
-
-## 5 - Реалізація коду в Bloc та Cumbit 
+---
+## 6 - Реалізація коду в Bloc та Cumbit 
 - Підключаємо Bloc.
 ```yaml
  bloc: ^8.1.4
@@ -364,7 +410,7 @@ class LoginCubit extends Cubit<LoginState> {
 ---
 
 
-## 6 - Ініціалізуємо Firebase в main();
+## 7 - Ініціалізуємо Firebase в main();
 
 ```dart
 void main() async {
@@ -374,7 +420,7 @@ void main() async {
 }
 ```
 ---
-## 7 - Передаємо bloc в BlocProvider;
+## 8 - Передаємо bloc в BlocProvider;
 
 ```dart
 class MyApp extends StatelessWidget {
@@ -405,7 +451,7 @@ class MyApp extends StatelessWidget {
 ```
 - Оголошуємо `MultiRepositoryProvider` якщо потрібно в майбутньому передати декілька bloc.
 ---
-## 7 - Реалізуємо BlocBilder;
+## 9 - Реалізуємо BlocBilder;
 
 Реалізуємо `BlocBuilder` для динамічної рендера певного місця в коді а не всього перерендуру. 
 ```dart
@@ -430,7 +476,7 @@ home: BlocBuilder<AuthGoogleBloc, AuthGoogleState>(
 - 
 ---
 
-## 9 - Реалізуємо LogIn;
+## 10 - Реалізуємо LogIn;
 
 Сторінка `AuthPage()`
 ```dart
@@ -443,7 +489,7 @@ home: BlocBuilder<AuthGoogleBloc, AuthGoogleState>(
 ```
 
 ---
-## 9 - Реалізуємо LogOut;
+## 11 - Реалізуємо LogOut;
 
 ```dart
 

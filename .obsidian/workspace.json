@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Package/BLoC/Bloc.md",
+                "file": "Flutter/Google Auth/Inplement Auth.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Package/BLoC/Bloc.md",
+                "file": "Flutter/Google Auth/Inplement Auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Package/BLoC/Bloc.md",
+                "file": "Flutter/Google Auth/Inplement Auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Package/BLoC/Bloc.md"
+                "file": "Flutter/Google Auth/Inplement Auth.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
+    "Flutter/Package/BLoC/Bloc.md",
     "Flutter/Build APK.md",
     "Flutter/Google Auth/Inplement Auth.md",
     "Flutter/Google Auth",
@@ -161,7 +162,6 @@
     "layout.md",
     "Dart/Клас.md",
     "Dart/Future.md",
-    "Flutter/Package/BLoC/Bloc.md",
     "Flutter/Package/BLoC/Routing.md",
     "Flutter/Package/BLoC/Bloc State.md",
     "Flutter/Package/BLoC/BlocСonsumer.md",
