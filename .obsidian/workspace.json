@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Flutter/Package/geolocator/Встановлення.md",
+=======
+                "file": "Flutter/Google Auth/Inplement Auth.md",
+>>>>>>> 3a505332461a95473749052a96609462882df2b3
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Flutter/Package/geolocator/Встановлення.md",
+=======
+                "file": "Flutter/Google Auth/Inplement Auth.md",
+>>>>>>> 3a505332461a95473749052a96609462882df2b3
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Flutter/Package/geolocator/Встановлення.md",
+=======
+                "file": "Flutter/Google Auth/Inplement Auth.md",
+>>>>>>> 3a505332461a95473749052a96609462882df2b3
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Flutter/Package/geolocator/Встановлення.md"
+=======
+                "file": "Flutter/Google Auth/Inplement Auth.md"
+>>>>>>> 3a505332461a95473749052a96609462882df2b3
               }
             }
           }
@@ -150,6 +166,7 @@
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Flutter/Multi-Screen.md",
     "Flutter/Package/geolocator/Встановлення.md",
     "Flutter/Package/geolocator",
@@ -160,13 +177,16 @@
     "Dart/Метода/Методи Dart/Map методи.md",
     "Flutter/Package/BLoC/Bloc and Cubit.md",
     "Flutter/Google Auth/Додаткова Інформація.md",
+=======
+    "Flutter/Package/BLoC/Bloc.md",
+    "Flutter/Build APK.md",
+>>>>>>> 3a505332461a95473749052a96609462882df2b3
     "Flutter/Google Auth/Inplement Auth.md",
     "Flutter/Google Auth",
     "Dart/Метода/Методи Dart/double.md",
     "layout.md",
     "Dart/Клас.md",
     "Dart/Future.md",
-    "Flutter/Package/BLoC/Bloc.md",
     "Flutter/Package/BLoC/Routing.md",
     "Flutter/Package/BLoC/Bloc State.md",
     "Flutter/Package/BLoC/BlocСonsumer.md",
