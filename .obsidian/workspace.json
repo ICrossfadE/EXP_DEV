@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Build APK.md",
+                "file": "Flutter/Package/geolocator/Встановлення.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 200
   },
   "right": {
     "id": "74c5594cf34ccf29",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Build APK.md",
+                "file": "Flutter/Package/geolocator/Встановлення.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Build APK.md",
+                "file": "Flutter/Package/geolocator/Встановлення.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Build APK.md"
+                "file": "Flutter/Package/geolocator/Встановлення.md"
               }
             }
           }
@@ -138,26 +138,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "markdown-importer:Імпорт Markdown-файлів": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "79d732e8c5f80c03",
   "lastOpenFiles": [
-    "Flutter/Google Auth/Inplement Auth.md",
+    "Flutter/Multi-Screen.md",
+    "Flutter/Package/geolocator/Встановлення.md",
+    "Flutter/Package/geolocator",
+    "Flutter/Package/Без назви.md",
     "Flutter/Build APK.md",
+    "Dart/Інформація/Map.md",
+    "Dart/Метода/Методи Dart/List і Set методи.md",
+    "Dart/Метода/Методи Dart/Map методи.md",
+    "Flutter/Package/BLoC/Bloc and Cubit.md",
+    "Flutter/Google Auth/Додаткова Інформація.md",
+    "Flutter/Google Auth/Inplement Auth.md",
     "Flutter/Google Auth",
     "Dart/Метода/Методи Dart/double.md",
-    "Dart/Метода/Методи Dart/Map методи.md",
-    "Dart/Метода/Методи Dart/List і Set методи.md",
-    "Dart/Інформація/Map.md",
-    "Flutter/Multi-Screen.md",
     "layout.md",
     "Dart/Клас.md",
     "Dart/Future.md",
@@ -173,10 +178,6 @@
     "Flutter/Package/BLoC/Data Repository.md",
     "Flutter/Package/BLoC/Hydrated Bloc.md",
     "Flutter/Package/BLoC/MultiBlocProvider.md",
-    "Flutter/Package/BLoC/RepositoryProvider.md",
-    "Flutter/Monorepo.md",
-    "Flutter/Implements.md",
-    "Flutter/HTTP and BLoC.md",
     "Dart/Метода/Методи Dart",
     "24.05.24.png",
     "Firebase/packages",
@@ -195,7 +196,6 @@
     "Dart/Класи",
     "Flutter/Package/BLoC",
     "Flutter/Властивості",
-    "Flutter/Метода/Методи Flutter",
     "Без назви.canvas",
     "Без назви 1.canvas"
   ]
