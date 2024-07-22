@@ -110,3 +110,25 @@ onPressed: () {
 
 >Така реалізація підходить для великих проектів.
 ---
+# Отримання даних з іншої сторінки
+
+- Коли нам потрібно отримати данні з однієї сторінки назад на іншу сторінку, можна передати значення в `pop` другим аргументом.
+```dart
+//Screen 2
+onPressed: () {
+ Navigator.pop(context, name);
+},
+```
+
+- Також потрібно прийняти ці значення в тому `Navigator` який перенаправляє на іншу сторінку.
+```dart
+//Screen 1
+ onPressed: () async {
+  dynamic userName = await Navigator.push(context,
+  MaterialPageRoute(builder: (context) {
+  return const Screen2();
+ }));
+},
+```
+
+>Після цього можемо використовувати данні з `Screen 2` в `Screen 1` 

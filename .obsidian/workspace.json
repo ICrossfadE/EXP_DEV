@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "8039e94921ab8ebb",
+    "id": "36d7e410e457a6c0",
     "type": "split",
     "children": [
       {
-        "id": "b217b2cfe98789cd",
+        "id": "c272a38b00a69487",
         "type": "tabs",
         "children": [
           {
-            "id": "79d732e8c5f80c03",
+            "id": "04f83429bdee383a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Flutter/Package/geolocator/Встановлення.md",
-=======
-                "file": "Flutter/Google Auth/Inplement Auth.md",
->>>>>>> 3a505332461a95473749052a96609462882df2b3
+                "file": "Flutter/Multi-Screen.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "084087ea922fa881",
+    "id": "a6e0f41be04ba120",
     "type": "split",
     "children": [
       {
-        "id": "4ce1ebda57325ef8",
+        "id": "89757d179652b6a8",
         "type": "tabs",
         "children": [
           {
-            "id": "dc33a1bf87f31cee",
+            "id": "4d85907fe3a80bef",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "214e3485da6b8243",
+            "id": "95605ad7f38b393f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "f370311e912c6ceb",
+            "id": "d21df0d6213bd567",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,27 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "74c5594cf34ccf29",
+    "id": "d660439179982d52",
     "type": "split",
     "children": [
       {
-        "id": "77393066e460f9d4",
+        "id": "2e8ac27f0779f08e",
         "type": "tabs",
         "children": [
           {
-            "id": "cee54593388470dc",
+            "id": "34609bb734207036",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Flutter/Package/geolocator/Встановлення.md",
-=======
-                "file": "Flutter/Google Auth/Inplement Auth.md",
->>>>>>> 3a505332461a95473749052a96609462882df2b3
+                "file": "Flutter/Multi-Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,23 +97,19 @@
             }
           },
           {
-            "id": "63fd0531be36919d",
+            "id": "57d2b141ab6c79f3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Flutter/Package/geolocator/Встановлення.md",
-=======
-                "file": "Flutter/Google Auth/Inplement Auth.md",
->>>>>>> 3a505332461a95473749052a96609462882df2b3
+                "file": "Flutter/Multi-Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0034fd3b64105635",
+            "id": "e3eb54f62b93507c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,16 +120,12 @@
             }
           },
           {
-            "id": "f4f8ef8334e13f12",
+            "id": "c0ae606c190cf590",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Flutter/Package/geolocator/Встановлення.md"
-=======
-                "file": "Flutter/Google Auth/Inplement Auth.md"
->>>>>>> 3a505332461a95473749052a96609462882df2b3
+                "file": "Flutter/Multi-Screen.md"
               }
             }
           }
@@ -154,69 +138,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Відкрити провідник файлів": false,
       "graph:Граф": false,
       "canvas:Створити нове полотно": false,
       "daily-notes:Сьогоднішня нотатка": false,
       "templates:Вставити шаблон": false,
       "command-palette:Відкрити меню команд": false,
-      "markdown-importer:Імпорт Markdown-файлів": false,
-      "templater-obsidian:Templater": false
+      "markdown-importer:Імпорт Markdown-файлів": false
     }
   },
-  "active": "79d732e8c5f80c03",
+  "active": "04f83429bdee383a",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Flutter/Multi-Screen.md",
-    "Flutter/Package/geolocator/Встановлення.md",
-    "Flutter/Package/geolocator",
-    "Flutter/Package/Без назви.md",
-    "Flutter/Build APK.md",
-    "Dart/Інформація/Map.md",
-    "Dart/Метода/Методи Dart/List і Set методи.md",
-    "Dart/Метода/Методи Dart/Map методи.md",
-    "Flutter/Package/BLoC/Bloc and Cubit.md",
-    "Flutter/Google Auth/Додаткова Інформація.md",
-=======
-    "Flutter/Package/BLoC/Bloc.md",
-    "Flutter/Build APK.md",
->>>>>>> 3a505332461a95473749052a96609462882df2b3
-    "Flutter/Google Auth/Inplement Auth.md",
-    "Flutter/Google Auth",
-    "Dart/Метода/Методи Dart/double.md",
-    "layout.md",
-    "Dart/Клас.md",
-    "Dart/Future.md",
-    "Flutter/Package/BLoC/Routing.md",
-    "Flutter/Package/BLoC/Bloc State.md",
-    "Flutter/Package/BLoC/BlocСonsumer.md",
-    "Flutter/Package/BLoC/BlocBuilder.md",
-    "Flutter/Package/BLoC/BlocListener.md",
-    "Flutter/Package/BLoC/BlocProvider.md",
-    "Flutter/Package/BLoC/BuildContext.md",
-    "Flutter/Package/BLoC/Data Provider.md",
-    "Flutter/Package/BLoC/Data Repository.md",
-    "Flutter/Package/BLoC/Hydrated Bloc.md",
-    "Flutter/Package/BLoC/MultiBlocProvider.md",
-    "Dart/Метода/Методи Dart",
-    "24.05.24.png",
-    "Firebase/packages",
-    "Firebase",
-    "Flutter/Package/BLoC/Без назви",
-    "Pasted image 20240605154706.png",
-    "Pasted image 20240605154506.png",
-    "Pasted image 20240605153940.png",
-    "Pasted image 20240605135348.png",
-    "Pasted image 20240605131634.png",
-    "Pasted image 20240605123724.png",
-    "Pasted image 20240605121421.png",
-    "Pasted image 20240605121236.png",
-    "Pasted image 20240605121012.png",
-    "Dart/Класи/Без назви",
-    "Dart/Класи",
-    "Flutter/Package/BLoC",
-    "Flutter/Властивості",
-    "Без назви.canvas",
-    "Без назви 1.canvas"
+    "Flutter/Життєвий цикл віджетів.md"
   ]
 }
