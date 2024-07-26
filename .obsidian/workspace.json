@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Multi-Screen.md",
+                "file": "Flutter/Додавання іконки додатку.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a12ee80c978f4100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dart/Інформація/Ключові слова.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Multi-Screen.md",
+                "file": "Dart/Інформація/Ключові слова.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Multi-Screen.md",
+                "file": "Dart/Інформація/Ключові слова.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Multi-Screen.md"
+                "file": "Dart/Інформація/Ключові слова.md"
               }
             }
           }
@@ -148,8 +161,13 @@
       "markdown-importer:Імпорт Markdown-файлів": false
     }
   },
-  "active": "04f83429bdee383a",
+  "active": "4d85907fe3a80bef",
   "lastOpenFiles": [
+    "Dart/Інформація/Типи даних.md",
+    "Dart/Інформація/Ключові слова.md",
+    "Dart/Інформація/Ключові слова.md",
+    "Flutter/Початок роботи.md",
+    "Flutter/Multi-Screen.md",
     "Flutter/Життєвий цикл віджетів.md"
   ]
 }
