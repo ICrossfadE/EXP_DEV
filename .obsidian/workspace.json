@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Додавання іконки додатку.md",
+                "file": "Dart/Mixin.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Animation/Hero.md",
+                "file": "Dart/Клас.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Animation/Hero.md",
+                "file": "Dart/Mixin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Animation/Hero.md",
+                "file": "Dart/Mixin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Animation/Hero.md"
+                "file": "Dart/Mixin.md"
               }
             }
           }
@@ -161,10 +160,14 @@
       "markdown-importer:Імпорт Markdown-файлів": false
     }
   },
-  "active": "a12ee80c978f4100",
+  "active": "04f83429bdee383a",
   "lastOpenFiles": [
-    "Flutter/Multi-Screen.md",
+    "Flutter/Додавання іконки додатку.md",
+    "Dart/Клас.md",
+    "Dart/Mixin.md",
+    "Dart/Знак Оклику.md",
     "Flutter/Animation/Hero.md",
+    "Flutter/Multi-Screen.md",
     "Flutter/Animation",
     "Dart/Інформація/Ключові слова.md",
     "Dart/Інформація/Типи даних.md",
