@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Mixin.md",
+                "file": "Flutter/Animation/Explicit animations.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/Mixin.md",
+                "file": "Flutter/Animation/Explicit animations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/Mixin.md",
+                "file": "Flutter/Animation/Explicit animations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/Mixin.md"
+                "file": "Flutter/Animation/Explicit animations.md"
               }
             }
           }
@@ -162,11 +162,13 @@
   },
   "active": "04f83429bdee383a",
   "lastOpenFiles": [
+    "Flutter/Animation/Implicit animations.md",
+    "Flutter/Animation/Hero.md",
+    "Flutter/Animation/Explicit animations.md",
+    "Dart/Mixin.md",
     "Flutter/Додавання іконки додатку.md",
     "Dart/Клас.md",
-    "Dart/Mixin.md",
     "Dart/Знак Оклику.md",
-    "Flutter/Animation/Hero.md",
     "Flutter/Multi-Screen.md",
     "Flutter/Animation",
     "Dart/Інформація/Ключові слова.md",
