@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< Updated upstream
     "id": "36d7e410e457a6c0",
     "type": "split",
     "children": [
@@ -9,23 +10,46 @@
         "children": [
           {
             "id": "04f83429bdee383a",
+=======
+    "id": "de6557c8326f44a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ffb96a06600b05c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd21c4dfb5016fcd",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Flutter/Додавання іконки додатку.md",
+=======
+                "file": "Flutter/Початок роботи.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "a12ee80c978f4100",
+=======
+            "id": "52b8de46e56c8d57",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Flutter/Animation/Hero.md",
+=======
+                "file": "Flutter/Початок роботи.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -38,6 +62,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< Updated upstream
     "id": "a6e0f41be04ba120",
     "type": "split",
     "children": [
@@ -47,6 +72,17 @@
         "children": [
           {
             "id": "4d85907fe3a80bef",
+=======
+    "id": "77a419cbfe44129b",
+    "type": "split",
+    "children": [
+      {
+        "id": "406511667bce1854",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6502e9089f484d57",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +92,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "95605ad7f38b393f",
+=======
+            "id": "ab80a553a5180093",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +111,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "d21df0d6213bd567",
+=======
+            "id": "e35c35453c802d18",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,6 +129,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< Updated upstream
     "id": "d660439179982d52",
     "type": "split",
     "children": [
@@ -94,11 +139,26 @@
         "children": [
           {
             "id": "34609bb734207036",
+=======
+    "id": "87032d20d8230456",
+    "type": "split",
+    "children": [
+      {
+        "id": "af521213ffd98b65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "942b06ae4fad16f8",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Flutter/Animation/Hero.md",
+=======
+                "file": "Flutter/Початок роботи.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +170,31 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "57d2b141ab6c79f3",
+=======
+            "id": "605ccf95e4b731d1",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Flutter/Animation/Hero.md",
+=======
+                "file": "Flutter/Початок роботи.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "e3eb54f62b93507c",
+=======
+            "id": "764ae5f6dba4aac4",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +205,20 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "c0ae606c190cf590",
+=======
+            "id": "56b8e4e67b890e64",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Flutter/Animation/Hero.md"
+=======
+                "file": "Flutter/Початок роботи.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -152,6 +232,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "templater-obsidian:Templater": false,
+<<<<<<< Updated upstream
       "switcher:Відкрити провідник файлів": false,
       "graph:Граф": false,
       "canvas:Створити нове полотно": false,
@@ -171,4 +252,17 @@
     "Flutter/Початок роботи.md",
     "Flutter/Життєвий цикл віджетів.md"
   ]
+=======
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "52b8de46e56c8d57",
+  "lastOpenFiles": []
+>>>>>>> Stashed changes
 }
