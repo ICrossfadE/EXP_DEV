@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Animation/Explicit animations.md",
+                "file": "Dart/Метода/ToList.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a12ee80c978f4100",
+            "id": "e849152b94a21657",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Рішення проблем/Зміщення при появі клавіатури.md",
+                "file": "Dart/Метода/sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Рішення проблем/Зміщення при появі клавіатури.md",
+                "file": "Dart/Метода/sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Рішення проблем/Зміщення при появі клавіатури.md",
+                "file": "Dart/Метода/sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Рішення проблем/Зміщення при появі клавіатури.md"
+                "file": "Dart/Метода/sort.md"
               }
             }
           }
@@ -151,24 +151,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Відкрити провідник файлів": false,
       "graph:Граф": false,
       "canvas:Створити нове полотно": false,
       "daily-notes:Сьогоднішня нотатка": false,
       "templates:Вставити шаблон": false,
-      "command-palette:Відкрити меню команд": false,
-      "markdown-importer:Імпорт Markdown-файлів": false
+      "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "a12ee80c978f4100",
+  "active": "e849152b94a21657",
   "lastOpenFiles": [
-    "Flutter/Віджети/SingleChildScrollView.md",
+    "Dart/Метода/compareTo.md",
+    "Dart/Метода/sort.md",
+    "Dart/Метода/containsKey.md",
+    "Dart/Метода/firstWhere.md",
+    "Dart/Метода/Map.md",
+    "Dart/Метода/where.md",
+    "Dart/Метода/ToList.md",
+    "Dart/Метода/ForEach.md",
+    "Flutter/Метода/Методи Flutter/where(...).md",
+    "Flutter/Рішення проблем/Передавання колору як рядок.md",
+    "Flutter/Рішення проблем/Зсув модельного вікна за клаіатурою.md",
     "Flutter/Рішення проблем/Зміщення при появі клавіатури.md",
-    "Flutter/Рішення проблем",
+    "layout 1.md",
     "layout.md",
-    "Flutter/Package/BLoC/Data Provider.md",
     "Flutter/Animation/Explicit animations.md",
+    "SQL",
+    "Postman.md",
+    "Flutter/Віджети/SingleChildScrollView.md",
+    "Flutter/Рішення проблем",
+    "Flutter/Package/BLoC/Data Provider.md",
     "Без назви.md",
     "Flutter/Package/BLoC/BuildContext.md",
     "Flutter/Package/BLoC/BlocProvider.md",
@@ -177,20 +189,7 @@
     "Dart/Інформація/Знак питання.md",
     "Dart/Інформація/Арифметичні дії.md",
     "Dart/Метода/Методи Dart/List і Set методи.md",
-    "Dart/Mixin.md",
-    "Dart/Future.md",
-    "Dart/Dart info.md",
-    "Dart/Клас.md",
-    "Dart/Метода/Метод Print().md",
-    "Dart/Метода/Методи Dart/Map методи.md",
-    "Dart/Інформація/Class.md",
-    "Flutter/Package/BLoC/Bloc.md",
-    "Flutter/Gradle.md",
     "Pasted image 20240730171216.png",
-    "Flutter/Animation/Implicit animations.md",
-    "Flutter/Animation/Hero.md",
-    "Flutter/Додавання іконки додатку.md",
-    "Dart/Знак Оклику.md",
     "Flutter/Animation"
   ]
 }
